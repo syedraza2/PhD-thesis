@@ -1,0 +1,190 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ThesisSyedRaza.aux
+A level-1 auxiliary file: title.aux
+A level-1 auxiliary file: acknowledgements.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: chap_Introduction.aux
+A level-1 auxiliary file: chap_Summary.aux
+A level-1 auxiliary file: chap_Model1.aux
+A level-1 auxiliary file: chap_Model2.aux
+A level-1 auxiliary file: chap_Model3.aux
+A level-1 auxiliary file: chap_Conclusion.aux
+A level-1 auxiliary file: chap_Future.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: Appendix.aux
+Reallocated field_info (elt_size=4) to 12728 items from 5000.
+Database file #1: refFinal.bib
+Repeated entry---line 10563 of file refFinal.bib
+ : @article {Xiong413
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11288 of file refFinal.bib
+ : @article{PhysRevB.92.035153
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12139 of file refFinal.bib
+ : @article{PhysRevLett.115.265304
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12175 of file refFinal.bib
+ : @article{PhysRevB.86.214514
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13352 of file refFinal.bib
+ : @article{Nielsen1983
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13514 of file refFinal.bib
+ : @article {Liu864
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13543 of file refFinal.bib
+ : @article{PhysRevX.5.031013
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13942 of file refFinal.bib
+ : @article{doi:10.1002/pssr.201206451
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14020 of file refFinal.bib
+ : @article{PhysRevX.5.031013
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14092 of file refFinal.bib
+ : @article{PhysRev.177.2426
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14162 of file refFinal.bib
+ : @article{Li2016
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14342 of file refFinal.bib
+ : @article {Xiong413
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14358 of file refFinal.bib
+ : @article{PhysRevX.5.031023
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14372 of file refFinal.bib
+ : @article{PhysRevB.89.081407
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14401 of file refFinal.bib
+ : @article{PhysRevB.92.161110
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14462 of file refFinal.bib
+ : @article{Li2016
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14513 of file refFinal.bib
+ : @article{PhysRevX.5.011011
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14528 of file refFinal.bib
+ : @article{PhysRevB.90.201102
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14630 of file refFinal.bib
+ : @article{TeoKane
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14654 of file refFinal.bib
+ : @article{ReadGreen
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14709 of file refFinal.bib
+ : @inbook{ReinhardtWalker10
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14721 of file refFinal.bib
+ : @article{AltlandZirnbauer97
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14733 of file refFinal.bib
+ : @article{Kitaevtable08
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14744 of file refFinal.bib
+ : @book{bigyellowbook
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14750 of file refFinal.bib
+ : @article{LukaszChenVishwanath
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14764 of file refFinal.bib
+ : @article{MetlitskiFidkowskiChenVishwanath14
+ :                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14776 of file refFinal.bib
+ : @article{FateevZamolodchikov82
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14790 of file refFinal.bib
+ : @article{ZamolodchikovFateev85
+ :                               ,
+I'm skipping whatever remains of this entry
+Warning--can't use both volume and number fields in TurnerVishwanath13
+Warning--can't use both author and editor fields in ReinhardtWalker10
+Warning--empty year in doi:10.1002/pssr.201206451
+Warning--empty title in MoTe
+Warning--empty journal in MoTe
+Warning--empty title in MoTe2
+Warning--empty journal in MoTe2
+Warning--empty title in WTe
+Warning--empty journal in WTe
+Warning--empty title in WTe2
+Warning--empty journal in WTe2
+Warning--empty title in type2
+Warning--empty title in Nielsen1983
+Warning--empty title in Iadecola2017
+Warning--empty journal in Iadecola2017
+Warning--empty title in Mross
+Warning--empty journal in Mross
+Warning--empty title in Raza2017
+Warning--empty journal in Raza2017
+You've used 336 entries,
+            1791 wiz_defined-function locations,
+            2182 strings with 62628 characters,
+and the built_in function-call counts, 88163 in all, are:
+= -- 6813
+> -- 5614
+< -- 3
++ -- 1997
+- -- 1661
+* -- 7834
+:= -- 14988
+add.period$ -- 1007
+call.type$ -- 336
+change.case$ -- 321
+chr.to.int$ -- 0
+cite$ -- 355
+duplicate$ -- 3025
+empty$ -- 7739
+format.name$ -- 1661
+if$ -- 18493
+int.to.chr$ -- 0
+int.to.str$ -- 336
+missing$ -- 340
+newline$ -- 1681
+num.names$ -- 338
+pop$ -- 432
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1105
+stack$ -- 0
+substring$ -- 7015
+swap$ -- 345
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 19
+while$ -- 692
+width$ -- 339
+write$ -- 3670
+(There were 28 error messages)

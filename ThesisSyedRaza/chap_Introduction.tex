@@ -1,0 +1,80 @@
+\chapter{Introduction}\label{chap:Introduction}
+Emergent behavior is a common theme in nature. For example, flocks of birds and swarms of fish display complex behavior in their collective movement. The collective system behaves as if it is more than the sum of its parts due to interactions between the parts. Similarly in 2D materials, emergent phenomena can arise when electrons interact with each other. Unlike the case where birds interact only with their nearest neighbors, electrons interact with all the other electrons in the system and are quantum mechanically entangled with each other. This leads to even more exotic emergent phenomena and complexity. 
+
+This collective behavior of interacting electrons can effectively split them into fractional particles known as quasiparticles, which have a fraction of the charge of an electron and other exotic properties. These quasiparticles are useful for applications such as quantum computing. Some 2D examples are fractional-charge quasiparticles in fractional quantum Hall effect and Majorana quasiparticles in superconductors. Unlike the 2D case, there are no materials at all that exhibit such behavior in 3D. Our work proposes how these emergent quasiparticles can be realized in 3D materials such as Dirac semimetals (3D analogs of graphene with massless electronic states), Dirac nodal superconductors (superconducting analogs of Dirac semimetals), and anomalous interaction-enabled Weyl semimetals.
+
+In our framework, interactions among electrons are introduced to make these electronic states massive without breaking any symmetries of the system. This leads to the emergence of quasiparticles in the 3D bulk, which are different from those found in 2D materials. 3D materials can also have loop-like quasiparticles beyond the point-like quasiparticles found in 2D materials. Studying electron interactions can be a daunting task in 3D, but in this work we develop a new framework that models the 3D system as an array of 1D interacting wires, which are much better understood, allowing us to study the interactions problem exactly. Interacting 1D wires can be understood using relations from Conformal field theory, making them a very useful building block to model higher dimensional interacting topological phases.
+
+We also propose a new many-body interaction-enabled state that is otherwise forbidden in the single-body setting. In the single-body setting, time-reversal symmetric Weyl semimetals have atleast four Weyl nodes. In this work, we show that in the presence of many-body interactions a new time-reversal symmetric state can arise with only two Weyl nodes. 
+
+The theoretical framework developed in this work will be useful for studying interactions and realizing quasiparticle excitations in a number of 3D materials. We will now give some brief background that may be useful for the reader. A summary of results and outline of the dissertation is given in chapter~\ref{chap:Summary}. The broad impact of this work is discussed in th conclusion chapter~\ref{chap:Conclusion}. 
+
+
+
+\section{Background}
+
+\subsection{Topological band theory}
+In topology, two objects are considered equivalent if they can be continuously transformed into each other, a famous example is that of a coffee mug and a donut. In condensed matter systems, we can ask a similar question if the Hamiltonians of two quantum systems are topologically equivalent. Two gapped quantum systems are topologically equivalent if they can be continuously deformed into each other without closing the energy gap. Topologically distinct Hamiltonians have a different topological invariant. The closing of the energy gap is known as a topological phase transition and it changes the topological invariant. 
+
+A simple 1D example that displays topological behavior is the Su-Schrieffer-Heeger (SSH) model. It consists of a finite 1D chain with staggered hoppings. This model has sub-lattice labels A and B. A unit cell consists of two atoms A and B, the intra-cell hopping is denoted by \textit{v} and inter-cell hopping by \textit{w}. The Hamiltonian can be written as 
+
+\begin{align}
+H_{SSH} = \sum^N_{i=1} v c^{\dagger}_{A,i} c_{B,i} + w  c^{\dagger}_{B,i} c_{A,i+1} + h.c \,.
+\end{align}
+The Bloch Hamiltonian, after a Fourier transform is given by 
+\begin{align}
+h(k) &= \sigma_x (v+w \cos(k)) + \sigma_y (w \sin(k)) \\
+&= \sigma_x d_x + \sigma_y d_y \,.
+\end{align}
+
+By diagonalizing the Bloch Hamiltonian, the energy spectrum of the model can be obtained $E_{\pm}(k) = \pm \sqrt{v^2 + w^2 +2 v w \cos(k)} $. For \textit{v}=\textit{w}, the bang gap vanishes at $k=\pm \pi$. The spectrum is gapped for $\textit{v}<\textit{w}$ and $\textit{v}>\textit{w}$, corresponding to two distinct topological states which can be distinguished by a topological invariant. In this case, the topological invariant is the bulk winding number $\nu$. $d(k)$ represents the internal structure of the eigenstates and as k goes from 0 to $2 \pi$, it traces a circular path in the $d_x-d_y$ plane. The winding number $\nu$ is defined as the number of times this path goes around the origin. The invariant $\nu = 0$ for $\textit{v}>\textit{w}$ and $\nu = 1$ for $\textit{v}<\textit{w}$. Similarly, for other topological states various topological invariants can be defined to distinguish between topological states. Elaborate tables have been built for classifying topological band theories with various combinations of symmetries and dimensionality.
+
+\subsection{2D Topological Order}
+In two-dimensions, interactions and quantum entanglement can effectively split the particles such as electrons to fractional excitations. These fractional excitations or anyons are of interest because of their potential applications for topological quantum computation. Anyons can be used to make quantum memories that are protected from decoherence and quantum gates can be constructed out of the braiding operations of these anyons. Certain non-Abelian anyons can also be braided to perform universal quantum computation. These fractional excitations are known as topological order and we would discuss one of the simplest examples known as the Kitaev model \cite{Kitaev06}. 
+
+On a square lattice, localized spin-1/2 electrons can be placed on the bonds connecting the lattice sites. The Hamiltonian can be written as
+
+\begin{align}
+H = - J_e \sum_{vertices} A_s - J_m \sum_{plaquettes} B_p \,,
+\label{Kitaev}
+\end{align}
+where $$A_s = \prod_{star(s)} \sigma_j^x,~~ B_p = \prod_{boundary(p)} \sigma_j^z \,.$$ 
+
+The boundary p refers to the spins on the bonds that surround a plaquette, the star s refers to bonds that surround a vertex. All the terns commute with each other, including the plaquette and vertex terms as they share an even number of spins. 
+
+This model has four excitations which are robust to small perturbations and belong to distinct superselection sectors. A superselection sector is defined as a class of states that can be transformed from one state to the other by local operators. This model has a vacuum 1, charge \textit{e}, vortex \textit{m} and charge-vortex \textit{$\epsilon$} sectors/states. Particle types \textit{e} and \textit{m} are bosons, whereas \textit{$\epsilon$} is a fermion. The particles describe a $Z_2$ gauge theory and this model represents one class of topological order. Wilson line/path operators can also be defined as
+
+\begin{align}
+W_e = \prod_{l_e} \sigma_z,~~ W_m = \prod_{l_m} \sigma_x \,.
+\label{Wilsonline}
+\end{align}
+
+The operator $W_e$ is a product of the vertex terms inside the loop $l_e$ and measures the parity of \textit{e} excitations. Similarly, $W_m$ counts parity of the number of \textit{m} excitations. These Wilson loops can characterize the degenerate ground states of the toric code on a torus. The Wilson line operators can have \textit{e} and \textit{m} excitations at the ends of the loops, they can also be used for moving excitations from point a to point b. The exchange and braiding statistics can also be determined by using Wilson line operators to move excitations around and getting a fractional braiding phase. These braiding operations of point-like excitations in two-dimensions can be used for topological quantum computing. 
+
+We will now discuss one of the oldest known examples of interacting topological phases with fractional excitations, the fractional quantum Hall effect. For integer Quantum Hall effect, the conductance is given by $G = \nu e^2/h$, where $\nu$ is an integer. However, for strongly interacting cases, this $\nu$ can take fractional values implying local excitations which have fractional electron charge. These fractional particles are local particles like electrons and pick up a fractional exchange phase when the excitations are interchanged. During the exchange, the many-body wave function of the system returns to itself but it picks up a Berry phase. For fermions the phase is $\pi$, for bosons it is zero, and for fractional excitations in the fractional quantum hall effect it is $\phi_{exchange} = \pi \nu$. This exchange phase can be easily understood by a composite fermions type argument. The fractional excitations can be thought of as a fractional charge with a flux quantum tied to it. A more formal description of composite fermions can be understood in terms of topological field theories and will be discussed later. If we forget about the attached flux and just consider the Aharanov-Bohm phase when a charged particle goes around a flux $\nu$, it picks up a phase of $2 \pi \nu$. In the composite-fermion picture, both excitations have a flux attached to them and pick up a phase when one of them moves around the other, which is equal to a double exchange. Hence the exchange phase of these anyons would be half of the double exchange and picks up an exchange phase of $ \pi \nu$. 
+
+Similarly to the Wilson operators in the Kitaev model, we can also define Wilson loops for the fractional quantum Hall effect with periodic boundary conditions on a torus. We can define two Wilson operators $W_{1,2}$ for each cycle of the torus. These Wilson operators move vortex around the non-trivial cycles of the Torus and represent braiding between the two vortices. The braiding phase is given by $W_1 W_2 = e^{i 2 \pi \nu} W_2 W_1$. A lattice model is not essential for defining braiding operations and Wilson loops, they can also be constructed in a coupled-wire description. A nice exposition of Wilson algebra for a coupled-wire description of various fractional Hall effect states can be found in \cite{TeoKaneCouplewires}. 
+
+The low-energy effective theories of fractional quantum Hall effect and other topological phases can be described using a Topological Quantum Field Theory (TQFT), like Chern-Simons theory for 2D cases. The Chern-Simons TQFT is topological in the sense that it does not depend on the metric and does not know about clocks and rulers of the system. The integral is evaluated on a closed manifold and depends only on the topology of the manifold and not on the metric that is put on the manifold. A clear and pedagogical explanation of Chern-Simons theory description of fractional quantum Hall effects can be found in notes by Gerald Dunne \cite{Dunne99}. The complete topological order, braiding and exchange statistics of these topological phases can be described using these TQFTs. 
+
+\subsection{3D Topological order}
+Previously we have discussed point-like fractional excitations in two-dimensions, which can give non-trivial braiding statistics. These anyon or quasiparticle braiding statistics is a powerful way to characterize the topological properties of two-dimensional gapped quantum many-body systems. In this section, we will discuss the analogous quantities in three dimensions. Braiding between point-like excitations is not possible in three-dimensions as the world-line of the quasiparticle does not form a non-contractible loop around the other quasiparticle like in two-dimensions. 
+
+In 3D, a much richer structure is obtained with braiding between point-like and loop-like excitations and between loop-like excitations. However, these braidings do not fully capture the topological structure of 3D many-body systems and more complete information can be captured by the three-loop braiding process \cite{WangLevin14}. The loop braiding statistics and the low-energy effective theory can be described by topological quantum field theories like the BF theory which are the 3D analogs of Chern-Simons theory. Although, there are numerous field-theoretic descriptions of 3D topological order there are no microscopic models. In 2D, topological order has been realized in interacting topological phases like the fractional quantum Hall effect but there have been no material realization for 3D topological order. In this work, we build the first microscopic models for 3D topological order in interacting topological phases, this may also lead to their material realization in the future.   
+
+\subsection{Symmetry Protected Topological (SPT) phases}
+Symmetry Protected Topological (SPT) phases are the generalizations of band insulators to interacting many-particle systems. Similar to topological band insulators, SPT states have gapped bulk and no exotic bulk excitations but have non-trivial surface states that are protected by symmetry. Similar to topological band theory, distinct SPT states cannot be smoothly deformed into each other without a phase transition if the symmetry is preserved. If the symmetry is broken, then the SPT state can be smoothly deformed to a trivial product state. In SPT phases, the degrees of freedom in one part of the sample is only entangled quantum mechanically with neighboring regions, this is known as Short Range Entanglement (SRE). One example of SPT states are Haldane spin chain in 1D \cite{Haldanespinchain,AKLT}, where the bulk is gapped and has no exotic excitations, there are dangling edge states which are protected by a symmetry like time reversal. Another example is the topological insulator which is protected by $U(1)$ and time-reversal symmetry. 
+
+Unlike SPT states, topologically ordered states are Long Range Entangled (LRE) and can have exotic excitations in the bulk. Both LRE states with topological order and SPT states can have protected gapless boundary states. The difference is that for the topologically ordered state, the gapless boundary state can be robust against any local perturbation but for SPT, the boundary state is only robust against perturbations that preserve the symmetry. The boundary states of topologically ordered states are topologically protected, while for SPT states they are symmetry protected. 
+
+
+\subsection{Symmetry Enriched Topological (SET) phases}
+Gapped phases with Long Range Entanglement (LRE) can be fully characterized by topological order if there is no symmetry imposed on the state. Two Hamiltonians in parameter space correspond to the same phase if they can be continuously deformed into one another without closing the gap. However, when symmetry is imposed, there is a finer scale of classification and these subset of states can be characterized by SET order. Now, the Hamiltonians in parameter space realize the same SET phase if they can be continuously deformed in to one another, while preserving the symmetry, without closing the gap.
+
+In this work, we have shown how symmetry-preserving gapping of a SPT state with many body interactions can lead to an SET state. This is one of the first examples of establishing a duality between SPT states and SET states in three-dimensions.
+
+
+
+
+
+

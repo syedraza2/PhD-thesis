@@ -1,0 +1,2013 @@
+\begin{thebibliography}{100}
+
+\bibitem{Kitaev06}
+Alexei Kitaev.
+\newblock Anyons in an exactly solved model and beyond.
+\newblock {\em Annals of Physics}, 321(1):2 -- 111, 2006.
+\newblock January Special Issue.
+
+\bibitem{TeoKaneCouplewires}
+Jeffrey C.~Y. Teo and C.~L. Kane.
+\newblock From luttinger liquid to non-abelian quantum hall states.
+\newblock {\em Phys. Rev. B}, 89:085101, Feb 2014.
+
+\bibitem{Dunne99}
+Gerald~V. Dunne.
+\newblock Aspects of chern-simons theory, 1999.
+
+\bibitem{WangLevin14}
+Chenjie Wang and Michael Levin.
+\newblock Braiding statistics of loop excitations in three dimensions.
+\newblock {\em Phys. Rev. Lett.}, 113:080403, Aug 2014.
+
+\bibitem{Haldanespinchain}
+F.~D.~M. Haldane.
+\newblock Nonlinear field theory of large-spin heisenberg antiferromagnets:
+  Semiclassically quantized solitons of the one-dimensional easy-axis neel
+  state.
+\newblock {\em Phys. Rev. Lett.},
+  50:\href{http://link.aps.org/doi/10.1103/PhysRevLett.50.1153}{1153}, 1983.
+
+\bibitem{AKLT}
+Ian Affleck, Tom Kennedy, Elliott~H. Lieb, and Hal Tasaki.
+\newblock Rigorous results on valence-bond ground states in antiferromagnets.
+\newblock {\em Phys. Rev. Lett.},
+  59:\href{http://link.aps.org/doi/10.1103/PhysRevLett.59.799}{799}, 1987.
+
+\bibitem{RazaSirotaTeo2019}
+Syed Raza, Alexander Sirota, and Jeffrey C.~Y. Teo.
+\newblock From dirac semimetals to topological phases in three dimensions: A
+  coupled-wire construction.
+\newblock {\em Phys. Rev. X}, 9:011039, Feb 2019.
+
+\bibitem{ParkRazaGilbertTeo2018}
+Moon~Jip Park, Syed Raza, Matthew~J. Gilbert, and Jeffrey C.~Y. Teo.
+\newblock Coupled wire models of interacting dirac nodal superconductors.
+\newblock {\em Phys. Rev. B}, 98:184514, Nov 2018.
+
+\bibitem{Son15}
+Dam~Thanh Son.
+\newblock Is the composite fermion a dirac particle?
+\newblock {\em Phys. Rev. X}, 5:031027, Sep 2015.
+
+\bibitem{BarkeshliMulliganFisher15}
+Maissam Barkeshli, Michael Mulligan, and Matthew P.~A. Fisher.
+\newblock Particle-hole symmetry and the composite fermi liquid.
+\newblock {\em Phys. Rev. B}, 92:165125, Oct 2015.
+
+\bibitem{WangSenthil16}
+Chong Wang and T.~Senthil.
+\newblock Half-filled landau level, topological insulator surfaces, and
+  three-dimensional quantum spin liquids.
+\newblock {\em Phys. Rev. B}, 93:085110, Feb 2016.
+
+\bibitem{MrossEssinAlicea15}
+David~F. Mross, Andrew Essin, and Jason Alicea.
+\newblock Composite dirac liquids: Parent states for symmetric surface
+  topological order.
+\newblock {\em Phys. Rev. X}, 5:011011, Feb 2015.
+
+\bibitem{KaneSternHalperin17}
+Charles~L. Kane, Ady Stern, and Bertrand~I. Halperin.
+\newblock Pairing in luttinger liquids and quantum hall states.
+\newblock {\em Phys. Rev. X}, 7:031009, Jul 2017.
+
+\bibitem{AKLT1}
+Ian Affleck, Tom Kennedy, Elliott~H. Lieb, and Hal Tasaki.
+\newblock Rigorous results on valence-bond ground states in antiferromagnets.
+\newblock {\em Phys. Rev. Lett.}, 59:799--802, Aug 1987.
+
+\bibitem{AKLT2}
+Ian Affleck, Tom Kennedy, Elliott~H. Lieb, and Hal Tasaki.
+\newblock Valence bond ground states in isotropic quantum antiferromagnets.
+\newblock {\em Comm. Math. Phys.}, 115(3):477--528, 1988.
+
+\bibitem{SirotaRazaTeoappearsoon}
+Alexander Sirota, Syed Raza, and Jeffrey C.~Y. Teo, 2017.
+\newblock to appear soon.
+
+\bibitem{Dirac28}
+P.~A.~M. Dirac.
+\newblock The quantum theory of the electron.
+\newblock {\em Proceedings of the Royal Society of London A: Mathematical,
+  Physical and Engineering Sciences}, 117(778):610--624, 1928.
+
+\bibitem{Weyl29}
+Hermann Weyl.
+\newblock Elektron und gravitation. i.
+\newblock {\em Zeitschrift f{\"u}r Physik}, 56(5):330--352, May 1929.
+
+\bibitem{Ashvin_Weyl_review}
+Oskar Vafek and Ashvin Vishwanath.
+\newblock Dirac fermions in solids: From high-tc cuprates and graphene to
+  topological insulators and weyl semimetals.
+\newblock {\em Annual Review of Condensed Matter Physics}, 5(1):83--112, 2014.
+
+\bibitem{TurnerVishwanath13}
+Ari~M. Turner and Ashvin Vishwanath.
+\newblock Chapter 11 - beyond band insulators: Topology of semimetals and
+  interacting phases.
+\newblock In Marcel Franz and Laurens Molenkamp, editors, {\em Topological
+  Insulators}, volume~6 of {\em Contemporary Concepts of Condensed Matter
+  Science}, pages 293 -- 324. Elsevier, 2013.
+
+\bibitem{HasanXuBian15}
+M~Zahid Hasan, Su-Yang Xu, and Guang Bian.
+\newblock Topological insulators, topological superconductors and weyl fermion
+  semimetals: discoveries, perspectives and outlooks.
+\newblock {\em Physica Scripta}, 2015(T164):014001, 2015.
+
+\bibitem{RMP}
+Ching-Kai Chiu, Jeffrey C.~Y. Teo, Andreas~P. Schnyder, and Shinsei Ryu.
+\newblock Classification of topological quantum matter with symmetries.
+\newblock {\em Rev. Mod. Phys.}, 88:035005, Aug 2016.
+
+\bibitem{Burkov16}
+A.~A. {Burkov}.
+\newblock {Topological semimetals}.
+\newblock {\em Nature Materials}, 15:1145--1148, November 2016.
+
+\bibitem{JiaXuHasan16}
+S.~{Jia}, S.-Y. {Xu}, and M.~Z. {Hasan}.
+\newblock {Weyl semimetals, Fermi arcs and chiral anomalies}.
+\newblock {\em Nature Materials}, 15:1140--1144, November 2016.
+
+\bibitem{ArmitageMeleVishwanath16}
+N.~P. Armitage, E.~J. Mele, and Ashvin Vishwanath.
+\newblock Weyl and dirac semimetals in three-dimensional solids.
+\newblock {\em Rev. Mod. Phys.}, 90:015001, Jan 2018.
+
+\bibitem{YanFelser17}
+Binghai Yan and Claudia Felser.
+\newblock Topological materials: Weyl semimetals.
+\newblock {\em Annual Review of Condensed Matter Physics}, 8(1):337--354, 2017.
+
+\bibitem{NetoGuineaPeresNovoselovGeim09}
+A.~H. Castro~Neto, F.~Guinea, N.~M.~R. Peres, K.~S. Novoselov, and A.~K. Geim.
+\newblock The electronic properties of graphene.
+\newblock {\em Rev. Mod. Phys.},
+  81:\href{http://link.aps.org/doi/10.1103/RevModPhys.81.109}{109}, 2009.
+
+\bibitem{HasanKane10}
+M.~Z. Hasan and C.~L. Kane.
+\newblock Topological insulators.
+\newblock {\em Rev. Mod. Phys.}, 82:3045, 2010.
+
+\bibitem{QiZhangreview11}
+Xiao-Liang Qi and Shou-Cheng Zhang.
+\newblock Topological insulators and superconductors.
+\newblock {\em Rev. Mod. Phys.}, 83:1057, 2011.
+
+\bibitem{HasanMoore11}
+M~Zahid Hasan and Joel~E Moore.
+\newblock Three-dimensional topological insulators.
+\newblock {\em Annual Review of Condensed Matter Physics}, 2(1):55--78, 2011.
+
+\bibitem{Adler69}
+Stephen~L. Adler.
+\newblock Axial-vector vertex in spinor electrodynamics.
+\newblock {\em Phys. Rev.}, 177:2426--2438, Jan 1969.
+
+\bibitem{BellJackiw69}
+J.~S. Bell and R.~Jackiw.
+\newblock A pcac puzzle: $\pi$0{\textrightarrow}$\gamma$$\gamma$ in the
+  $\sigma$-model.
+\newblock {\em Il Nuovo Cimento A (1965-1970)}, 60(1):47--61, Mar 1969.
+
+\bibitem{Nielsen_Ninomiya_1981}
+H.~B. {Nielsen} and M.~{Ninomiya}.
+\newblock {Absence of neutrinos on a lattice (I). Proof by homotopy theory}.
+\newblock {\em Nuclear Physics B}, 185:20--40, July 1981.
+
+\bibitem{NielsenNinomiyaPLB1981}
+H.B. Nielsen and M.~Ninomiya.
+\newblock A no-go theorem for regularizing chiral fermions.
+\newblock {\em Physics Letters B}, 105(2):219 -- 223, 1981.
+
+\bibitem{NielsenNinomiya83}
+H.B. Nielsen and Masao Ninomiya.
+\newblock The adler-bell-jackiw anomaly and weyl fermions in a crystal.
+\newblock {\em Phys. Lett. B}, 130(6):389 -- 396, 1983.
+
+\bibitem{ZhangHu01}
+Shou-Cheng Zhang and Jiangping Hu.
+\newblock A four-dimensional generalization of the quantum hall effect.
+\newblock {\em Science}, 294(5543):823--828, 2001.
+
+\bibitem{BernevigChernHuToumbasZhang02}
+Bogdan~Andrei Bernevig, Chyh-Hong Chern, Jiang-Ping Hu, Nicolaos Toumbas, and
+  Shou-Cheng Zhang.
+\newblock Effective field theory description of the higher dimensional quantum
+  hall liquid.
+\newblock {\em Annals of Physics}, 300(2):185 -- 207, 2002.
+
+\bibitem{QiHughesZhang08}
+Xiao-Liang Qi, Taylor~L. Hughes, and Shou-Cheng Zhang.
+\newblock Topological field theory of time-reversal invariant insulators.
+\newblock {\em Phys. Rev. B}, 78:195424, 2008.
+
+\bibitem{Murakami2007}
+Shuichi Murakami.
+\newblock Phase transition between the quantum spin hall and insulator phases
+  in 3d: emergence of a topological gapless phase.
+\newblock {\em New J. Phys.}, 9:356, 2007.
+
+\bibitem{WanVishwanathSavrasovPRB11}
+Xiangang Wan, Ari~M. Turner, Ashvin Vishwanath, and Sergey~Y. Savrasov.
+\newblock Topological semimetal and fermi-arc surface states in the electronic
+  structure of pyrochlore iridates.
+\newblock {\em Phys. Rev. B}, 83:205101, May 2011.
+
+\bibitem{YangLuRan11}
+Kai-Yu Yang, Yuan-Ming Lu, and Ying Ran.
+\newblock Quantum hall effects in a weyl semimetal: Possible application in
+  pyrochlore iridates.
+\newblock {\em Phys. Rev. B}, 84:075129, Aug 2011.
+
+\bibitem{burkovBalenstPRL11}
+A.~A. Burkov and Leon Balents.
+\newblock Weyl semimetal in a topological insulator multilayer.
+\newblock {\em Phys. Rev. Lett.}, 107:127205, Sep 2011.
+
+\bibitem{BurkovBalentsPRB11}
+A.~A. Burkov, M.~D. Hook, and Leon Balents.
+\newblock Topological nodal semimetals.
+\newblock {\em Phys. Rev. B}, 84:235126, Dec 2011.
+
+\bibitem{Burkov_Weyl_electromagnetic_2012}
+A.~A. Zyuzin and A.~A. Burkov.
+\newblock Topological response in weyl semimetals and the chiral anomaly.
+\newblock {\em Phys. Rev. B}, 86:115133, Sep 2012.
+
+\bibitem{Hosur_Weyl_develop}
+Pavan Hosur and Xiaoliang Qi.
+\newblock Recent developments in transport phenomena in weyl semimetals.
+\newblock {\em Comptes Rendus Physique}, 14(9--10):857 -- 870, 2013.
+
+\bibitem{Lu_anomaly_Weyl_2013}
+Chao-Xing Liu, Peng Ye, and Xiao-Liang Qi.
+\newblock Chiral gauge field and axial anomaly in a weyl semimetal.
+\newblock {\em Phys. Rev. B}, 87:235306, Jun 2013.
+
+\bibitem{SonSpivak13}
+D.~T. Son and B.~Z. Spivak.
+\newblock Chiral anomaly and classical negative magnetoresistance of weyl
+  metals.
+\newblock {\em Phys. Rev. B}, 88:104412, Sep 2013.
+
+\bibitem{Sid_anomaly_Weyl}
+S.~A. Parameswaran, T.~Grover, D.~A. Abanin, D.~A. Pesin, and A.~Vishwanath.
+\newblock Probing the chiral anomaly with nonlocal transport in
+  three-dimensional topological semimetals.
+\newblock {\em Physical Review X}, 4(3):031035--, 09 2014.
+
+\bibitem{Marcel_Weyl_response}
+M.~M. Vazifeh and M.~Franz.
+\newblock Electromagnetic response of weyl semimetals.
+\newblock {\em Phys. Rev. Lett.}, 111:027201, Jul 2013.
+
+\bibitem{WengXiZhong16}
+Hongming Weng, Xi~Dai, and Zhong Fang.
+\newblock Topological semimetals predicted from first-principles calculations.
+\newblock {\em Journal of Physics: Condensed Matter}, 28(30):303001, 2016.
+
+\bibitem{LiuVanderbilt14}
+Jianpeng Liu and David Vanderbilt.
+\newblock Weyl semimetals from noncentrosymmetric topological insulators.
+\newblock {\em Phys. Rev. B}, 90:155316, Oct 2014.
+
+\bibitem{SinghSharmaLinHasanPrasadBansil12}
+Bahadur Singh, Ashutosh Sharma, H.~Lin, M.~Z. Hasan, R.~Prasad, and A.~Bansil.
+\newblock Topological electronic structure and weyl semimetal in the
+  tlbise${}_{2}$ class of semiconductors.
+\newblock {\em Phys. Rev. B}, 86:115208, Sep 2012.
+
+\bibitem{WengBernevigDai2015}
+Hongming Weng, Chen Fang, Zhong Fang, B.~Andrei Bernevig, and Xi~Dai.
+\newblock Weyl semimetal phase in noncentrosymmetric transition-metal
+  monophosphides.
+\newblock {\em Phys. Rev. X}, 5:011029, Mar 2015.
+
+\bibitem{HuangXuZahidTaAs2015}
+Shin-Ming Huang, Su-Yang Xu, Ilya Belopolski, Chi-Cheng Lee, Guoqing Chang,
+  BaoKai Wang, Nasser Alidoust, Guang Bian, Madhab Neupane, Chenglong Zhang,
+  Shuang Jia, Arun Bansil, Hsin Lin, and M.~Zahid Hasan.
+\newblock A weyl fermion semimetal with surface fermi arcs in the transition
+  metal monopnictide taas class.
+\newblock {\em Nature Communications}, 6:7373, 6 2015.
+
+\bibitem{HirayamaOkugawaIshibashiMurakamiMiyake15}
+Motoaki Hirayama, Ryo Okugawa, Shoji Ishibashi, Shuichi Murakami, and Takashi
+  Miyake.
+\newblock Weyl node and spin texture in trigonal tellurium and selenium.
+\newblock {\em Phys. Rev. Lett.}, 114:206401, May 2015.
+
+\bibitem{RuanXing16}
+J.~{Ruan}, S.-K. {Jian}, H.~{Yao}, H.~{Zhang}, S.-C. {Zhang}, and D.~{Xing}.
+\newblock {Symmetry-protected ideal Weyl semimetal in HgTe-class materials}.
+\newblock {\em Nature Communications}, 7:11136, April 2016.
+
+\bibitem{witczak_kim_weyl_2012}
+William Witczak-Krempa and Yong~Baek Kim.
+\newblock Topological and magnetic phases of interacting electrons in the
+  pyrochlore iridates.
+\newblock {\em Phys. Rev. B}, 85:045124, Jan 2012.
+
+\bibitem{chen_hermele_weyl}
+Gang Chen and Michael Hermele.
+\newblock Magnetic orders and topological phases from $f$-$d$ exchange in
+  pyrochlore iridates.
+\newblock {\em Phys. Rev. B}, 86:235129, Dec 2012.
+
+\bibitem{XuWengWangDaiFang11}
+Gang Xu, Hongming Weng, Zhijun Wang, Xi~Dai, and Zhong Fang.
+\newblock Chern semimetal and the quantized anomalous hall effect in
+  ${\mathrm{hgcr}}_{2}{\mathrm{se}}_{4}$.
+\newblock {\em Phys. Rev. Lett.}, 107:186806, Oct 2011.
+
+\bibitem{BulmashLiuQi14}
+Daniel Bulmash, Chao-Xing Liu, and Xiao-Liang Qi.
+\newblock Prediction of a weyl semimetal in
+  ${\text{hg}}_{1\ensuremath{-}x\ensuremath{-}y}$${\text{cd}}_{x}$${\text{mn}}_{y}$te.
+\newblock {\em Phys. Rev. B}, 89:081106, Feb 2014.
+
+\bibitem{HasanXuBelopolskiHuang17}
+M.~Zahid Hasan, Su-Yang Xu, Ilya Belopolski, and Shin-Ming Huang.
+\newblock Discovery of weyl fermion semimetals and topological fermi arc
+  states.
+\newblock {\em Annual Review of Condensed Matter Physics}, 8(1):289--309, 2017.
+
+\bibitem{WangLinWangYuLiao17}
+Shuo Wang, Ben-Chuan Lin, An-Qi Wang, Da-Peng Yu, and Zhi-Min Liao.
+\newblock Quantum transport in dirac and weyl semimetals: a review.
+\newblock {\em Advances in Physics: X}, 2(3):518--544, 2017.
+
+\bibitem{Xu_Weyl_2015_first}
+Su-Yang Xu, Ilya Belopolski, Nasser Alidoust, Madhab Neupane, Guang Bian,
+  Chenglong Zhang, Raman Sankar, Guoqing Chang, Zhujun Yuan, Chi-Cheng Lee,
+  Shin-Ming Huang, Hao Zheng, Jie Ma, Daniel~S. Sanchez, BaoKai Wang, Arun
+  Bansil, Fangcheng Chou, Pavel~P. Shibayev, Hsin Lin, Shuang Jia, and M.~Zahid
+  Hasan.
+\newblock Discovery of a weyl fermion semimetal and topological fermi arcs.
+\newblock {\em Science}, 349(6248):613--617, 2015.
+
+\bibitem{Weyl_discovery_TaAs}
+B.~Q. Lv, H.~M. Weng, B.~B. Fu, X.~P. Wang, H.~Miao, J.~Ma, P.~Richard, X.~C.
+  Huang, L.~X. Zhao, G.~F. Chen, Z.~Fang, X.~Dai, T.~Qian, and H.~Ding.
+\newblock Experimental discovery of weyl semimetal taas.
+\newblock {\em Phys. Rev. X}, 5:031013, Jul 2015.
+
+\bibitem{YangLiuChenTaAs2015}
+L.~X. Yang, Z.~K. Liu, Y.~Sun, H.~Peng, H.~F. Yang, T.~Zhang, B.~Zhou,
+  Y.~Zhang, Y.~F. Guo, M.~Rahn, D.~Prabhakaran, Z.~Hussain, S.~K. Mo,
+  C.~Felser, B.~Yan, and Y.~L. Chen.
+\newblock Weyl semimetal phase in the non-centrosymmetric compound taas.
+\newblock {\em Nat Phys}, 11(9):728--732, 09 2015.
+
+\bibitem{TaAs_Weyl_obeservationDing}
+B.~Q. Lv, N.~Xu, H.~M. Weng, J.~Z. Ma, P.~Richard, X.~C. Huang, L.~X. Zhao,
+  G.~F. Chen, C.~E. Matt, F.~Bisti, V.~N. Strocov, J.~Mesot, Z.~Fang, X.~Dai,
+  T.~Qian, M.~Shi, and H.~Ding.
+\newblock Observation of weyl nodes in taas.
+\newblock {\em Nat Phys}, 11(9):724--727, Sep 2015.
+
+\bibitem{BelopolskiZahid16}
+Ilya Belopolski, Su-Yang Xu, Daniel~S. Sanchez, Guoqing Chang, Cheng Guo,
+  Madhab Neupane, Hao Zheng, Chi-Cheng Lee, Shin-Ming Huang, Guang Bian, Nasser
+  Alidoust, Tay-Rong Chang, BaoKai Wang, Xiao Zhang, Arun Bansil, Horng-Tay
+  Jeng, Hsin Lin, Shuang Jia, and M.~Zahid Hasan.
+\newblock Criteria for directly detecting topological fermi arcs in weyl
+  semimetals.
+\newblock {\em Phys. Rev. Lett.}, 116:066802, Feb 2016.
+
+\bibitem{XuNbAs15}
+S.-Y. {Xu}, N.~{Alidoust}, I.~{Belopolski}, Z.~{Yuan}, G.~{Bian}, T.-R.
+  {Chang}, H.~{Zheng}, V.~N. {Strocov}, D.~S. {Sanchez}, G.~{Chang},
+  C.~{Zhang}, D.~{Mou}, Y.~{Wu}, L.~{Huang}, C.-C. {Lee}, S.-M. {Huang},
+  B.~{Wang}, A.~{Bansil}, H.-T. {Jeng}, T.~{Neupert}, A.~{Kaminski}, H.~{Lin},
+  S.~{Jia}, and M.~{Zahid Hasan}.
+\newblock {Discovery of a Weyl fermion state with Fermi arcs in niobium
+  arsenide}.
+\newblock {\em Nature Physics}, 11:748--754, September 2015.
+
+\bibitem{LiuChen16}
+Z~K Liu, L~X Yang, Y~Sun, T~Zhang, Han Peng, YANG Haifeng, C~Chen, Yi~Zhang,
+  Yanfeng Guo, D~Prabhakaran, M~Schmidt, Zahid Hussain, Sung-Kwan Mo, Claudia
+  Felser, Binghai Yan, and Y~L Chen.
+\newblock Evolution of the fermi surface of weyl semimetals in the transition
+  metal pnictide family.
+\newblock {\em Nature Materials}, 15:27--31, 2016.
+
+\bibitem{ChangHasan16}
+G.~{Chang}, B.~J. {Wieder}, F.~{Schindler}, D.~S. {Sanchez}, I.~{Belopolski},
+  S.-M. {Huang}, B.~{Singh}, D.~{Wu}, T.~{Neupert}, T.-R. {Chang}, S.-Y. {Xu},
+  H.~{Lin}, and M.~{Zahid Hasan}.
+\newblock {Topological quantum properties of chiral crystals}.
+\newblock {\em ArXiv e-prints}, November 2016.
+
+\bibitem{Huang_Weyl_2015}
+Xiaochun Huang, Lingxiao Zhao, Yujia Long, Peipei Wang, Dong Chen, Zhanhai
+  Yang, Hui Liang, Mianqi Xue, Hongming Weng, Zhong Fang, Xi~Dai, and Genfu
+  Chen.
+\newblock Observation of the chiral-anomaly-induced negative magnetoresistance
+  in 3d weyl semimetal taas.
+\newblock {\em Phys. Rev. X}, 5:031023, Aug 2015.
+
+\bibitem{Zhang_anomaly_Weyl_2015}
+C.~{Zhang}, S.-Y. {Xu}, I.~{Belopolski}, Z.~{Yuan}, Z.~{Lin}, B.~{Tong},
+  N.~{Alidoust}, C.-C. {Lee}, S.-M. {Huang}, H.~{Lin}, M.~{Neupane}, D.~S.
+  {Sanchez}, H.~{Zheng}, G.~{Bian}, J.~{Wang}, C.~{Zhang}, T.~{Neupert},
+  M.~{Zahid Hasan}, and S.~{Jia}.
+\newblock Signatures of the adler–bell–jackiw chiral anomaly in a weyl
+  fermion semimetal.
+\newblock {\em Nature Communications}, 7:10735, 2016.
+
+\bibitem{HuMaoTaP17}
+J.~{Hu}, J.~Y. {Liu}, D.~{Graf}, S.~M.~A {Radmanesh}, D.~J. {Adams},
+  A.~{Chuang}, Y.~{Wang}, I.~{Chiorescu}, J.~{Wei}, L.~{Spinu}, and Z.~Q.
+  {Mao}.
+\newblock {π Berry phase and Zeeman splitting of Weyl semimetal TaP}.
+\newblock {\em Scientific Reports}, 6:18674, January 2016.
+
+\bibitem{CorinnaNiemannFelserNbP17}
+A.~{Corinna Niemann}, J.~{Gooth}, S.-C. {Wu}, S.~{B{\"a}{\ss}ler},
+  P.~{Sergelius}, R.~{H{\"u}hne}, B.~{Rellinghaus}, C.~{Shekhar},
+  V.~{S{\"u}{\ss}}, M.~{Schmidt}, C.~{Felser}, B.~{Yan}, and K.~{Nielsch}.
+\newblock {Chiral magnetoresistance in the Weyl semimetal NbP}.
+\newblock {\em Scientific Reports}, 7:43394, March 2017.
+
+\bibitem{LiXuNbAsNbP17}
+Yupeng Li, Zhen Wang, Pengshan Li, Xiaojun Yang, Zhixuan Shen, Feng Sheng,
+  Xiaodong Li, Yunhao Lu, Yi~Zheng, and Zhu-An Xu.
+\newblock Negative magnetoresistance in weyl semimetals nbas and nbp: Intrinsic
+  chiral anomaly and extrinsic effects.
+\newblock {\em Frontiers of Physics}, 12(3):127205, Jun 2017.
+
+\bibitem{GoothNielschNbP17}
+J.~{Gooth}, A.~C. {Niemann}, T.~{Meng}, A.~G. {Grushin}, K.~{Landsteiner},
+  B.~{Gotsmann}, F.~{Menges}, M.~{Schmidt}, C.~{Shekhar}, V.~{S{\"u}{\ss}},
+  R.~{H{\"u}hne}, B.~{Rellinghaus}, C.~{Felser}, B.~{Yan}, and K.~{Nielsch}.
+\newblock {Experimental signatures of the mixed axial-gravitational anomaly in
+  the Weyl semimetal NbP}.
+\newblock {\em Nature}, 547:324--327, July 2017.
+
+\bibitem{SudeshPatnaikNbP17}
+{Sudesh}, P.~{Kumar}, P.~{Neha}, T.~{Das}, and S.~{Patnaik}.
+\newblock {Evidence for trivial Berry phase and absence of chiral anomaly in
+  semimetal NbP}.
+\newblock {\em Scientific Reports}, 7:46062, April 2017.
+
+\bibitem{TeoFuKane08}
+Jeffrey C.~Y. Teo, Liang Fu, and C.~L. Kane.
+\newblock Surface states and topological invariants in three-dimensional
+  topological insulators: Application to
+  ${\text{bi}}_{1\ensuremath{-}x}{\text{sb}}_{x}$.
+\newblock {\em Phys. Rev. B}, 78:045426, Jul 2008.
+
+\bibitem{Hsieh:2012fk}
+Timothy~H. Hsieh, Hsin Lin, Junwei Liu, Wenhui Duan, Arun Bansil, and Liang Fu.
+\newblock Topological crystalline insulators in the snte material class.
+\newblock {\em Nat. Commun.}, 3:982, 07 2012.
+
+\bibitem{SatoTakahashi11}
+T.~{Sato}, K.~{Segawa}, K.~{Kosaka}, S.~{Souma}, K.~{Nakayama}, K.~{Eto},
+  T.~{Minami}, Y.~{Ando}, and T.~{Takahashi}.
+\newblock {Unexpected mass acquisition of Dirac fermions at the quantum phase
+  transition of a topological insulator}.
+\newblock {\em Nature Physics}, 7:840--844, November 2011.
+
+\bibitem{SoumaAndo12}
+S.~Souma, M.~Komatsu, M.~Nomura, T.~Sato, A.~Takayama, T.~Takahashi, K.~Eto,
+  Kouji Segawa, and Yoichi Ando.
+\newblock Spin polarization of gapped dirac surface states near the topological
+  phase transition in
+  $\mathrm{TlBi}({\mathbf{s}}_{1\mathrm{\text{\ensuremath{-}}}x}{\mathrm{se}}_{x}{)}_{2}$.
+\newblock {\em Phys. Rev. Lett.}, 109:186804, Nov 2012.
+
+\bibitem{XuCavaHasan11}
+Su-Yang Xu, Y.~Xia, L.~A. Wray, S.~Jia, F.~Meier, J.~H. Dil, J.~Osterwalder,
+  B.~Slomski, A.~Bansil, H.~Lin, R.~J. Cava, and M.~Z. Hasan.
+\newblock Topological phase transition and texture inversion in a tunable
+  topological insulator.
+\newblock {\em Science}, 332(6029):560--564, 2011.
+
+\bibitem{BrahlekSeongshik12}
+Matthew Brahlek, Namrata Bansal, Nikesh Koirala, Su-Yang Xu, Madhab Neupane,
+  Chang Liu, M.~Zahid Hasan, and Seongshik Oh.
+\newblock Topological-metal to band-insulator transition in
+  $({\mathrm{bi}}_{1\ensuremath{-}x}{\mathrm{in}}_{x}{)}_{2}{\mathrm{se}}_{3}$
+  thin films.
+\newblock {\em Phys. Rev. Lett.}, 109:186403, Oct 2012.
+
+\bibitem{WuArmitage13}
+L.~{Wu}, M.~{Brahlek}, R.~{Vald{\'e}s Aguilar}, A.~V. {Stier}, C.~M. {Morris},
+  Y.~{Lubashevsky}, L.~S. {Bilbro}, N.~{Bansal}, S.~{Oh}, and N.~P. {Armitage}.
+\newblock {A sudden collapse in the transport lifetime across the topological
+  phase transition in (Bi$_{1-x}$In$_{x}$)$_{2}$Se$_{3}$}.
+\newblock {\em Nature Physics}, 9:410--414, July 2013.
+
+\bibitem{OrlitaPotemski14}
+M.~{Orlita}, D.~M. {Basko}, M.~S. {Zholudev}, F.~{Teppe}, W.~{Knap}, V.~I.
+  {Gavrilenko}, N.~N. {Mikhailov}, S.~A. {Dvoretskii}, P.~{Neugebauer},
+  C.~{Faugeras}, A.-L. {Barra}, G.~{Martinez}, and M.~{Potemski}.
+\newblock {3D massless Kane fermions observed in a zinc-blende crystal}.
+\newblock {\em Nature Physics}, 10:233--238, January 2014.
+
+\bibitem{DuWanXYBi15}
+Y.~{Du}, B.~{Wan}, D.~{Wang}, L.~{Sheng}, C.-G. {Duan}, and X.~{Wan}.
+\newblock {Dirac and Weyl Semimetal in XYBi (X=Ba, Eu; Y=Cu, Ag and Au)}.
+\newblock {\em Scientific Reports}, 5:14423, September 2015.
+
+\bibitem{GibsonCava15}
+Q.~D. Gibson, L.~M. Schoop, L.~Muechler, L.~S. Xie, M.~Hirschberger, N.~P. Ong,
+  R.~Car, and R.~J. Cava.
+\newblock Three-dimensional dirac semimetals: Design principles and predictions
+  of new materials.
+\newblock {\em Phys. Rev. B}, 91:205128, May 2015.
+
+\bibitem{LiVallaZrTe516}
+Q.~{Li}, D.~E. {Kharzeev}, C.~{Zhang}, Y.~{Huang}, I.~{Pletikosi{\'c}}, A.~V.
+  {Fedorov}, R.~D. {Zhong}, J.~A. {Schneeloch}, G.~D. {Gu}, and T.~{Valla}.
+\newblock {Chiral magnetic effect in ZrTe$_{5}$}.
+\newblock {\em Nature Physics}, 12:550--554, June 2016.
+
+\bibitem{BiO3_Dirac_semimetal}
+S.~M. Young, S.~Zaheer, J.~C.~Y. Teo, C.~L. Kane, E.~J. Mele, and A.~M. Rappe.
+\newblock Dirac semimetal in three dimensions.
+\newblock {\em Phys. Rev. Lett.}, 108:140405, Apr 2012.
+
+\bibitem{SteinbergYoungZaheerKaneMeleRappe14}
+Julia~A. Steinberg, Steve~M. Young, Saad Zaheer, C.~L. Kane, E.~J. Mele, and
+  Andrew~M. Rappe.
+\newblock Bulk dirac points in distorted spinels.
+\newblock {\em Phys. Rev. Lett.}, 112:036403, Jan 2014.
+
+\bibitem{wangCd3As2PRB13}
+Zhijun Wang, Hongming Weng, Quansheng Wu, Xi~Dai, and Zhong Fang.
+\newblock Three-dimensional dirac semimetal and quantum transport in
+  cd${}_{3}$as${}_{2}$.
+\newblock {\em Phys. Rev. B}, 88:125427, Sep 2013.
+
+\bibitem{Dai_predition_Na3Bi}
+Zhijun Wang, Yan Sun, Xing-Qiu Chen, Cesare Franchini, Gang Xu, Hongming Weng,
+  Xi~Dai, and Zhong Fang.
+\newblock Dirac semimetal and topological phase transitions in ${A}_{3}$bi
+  ($a=\text{Na}$, k, rb).
+\newblock {\em Phys. Rev. B}, 85:195320, May 2012.
+
+\bibitem{KonigMermin97}
+Anja K\"onig and N.~David Mermin.
+\newblock Electronic level degeneracy in nonsymmorphic periodic or aperiodic
+  crystals.
+\newblock {\em Phys. Rev. B}, 56:13607--13610, Dec 1997.
+
+\bibitem{ParameswaranTurnerArovasVishwanath13}
+S.~A. {Parameswaran}, A.~M. {Turner}, D.~P. {Arovas}, and A.~{Vishwanath}.
+\newblock {Topological order and absence of band insulators at integer filling
+  in non-symmorphic crystals}.
+\newblock {\em Nature Physics}, 9:299--303, May 2013.
+
+\bibitem{WatanabePoVishwanathZaletel15}
+Haruki Watanabe, Hoi~Chun Po, Ashvin Vishwanath, and Michael Zaletel.
+\newblock Filling constraints for spin-orbit coupled insulators in symmorphic
+  and nonsymmorphic crystals.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  112(47):14551--14556, 2015.
+
+\bibitem{ChenKimKee16}
+Yige Chen, Heung-Sik Kim, and Hae-Young Kee.
+\newblock Topological crystalline semimetals in nonsymmorphic lattices.
+\newblock {\em Phys. Rev. B}, 93:155140, Apr 2016.
+
+\bibitem{WatanabePoZaletelVishwanath16}
+Haruki Watanabe, Hoi~Chun Po, Michael~P. Zaletel, and Ashvin Vishwanath.
+\newblock Filling-enforced gaplessness in band structures of the 230 space
+  groups.
+\newblock {\em Phys. Rev. Lett.}, 117:096404, Aug 2016.
+
+\bibitem{BradlynBernevig17}
+B.~{Bradlyn}, L.~{Elcoro}, J.~{Cano}, M.~G. {Vergniory}, Z.~{Wang},
+  C.~{Felser}, M.~I. {Aroyo}, and B.~A. {Bernevig}.
+\newblock {Topological quantum chemistry}.
+\newblock {\em Nature}, 547:298--305, July 2017.
+
+\bibitem{ChenPoNeatonVishwanath16}
+R.~{Chen}, H.~C. {Po}, J.~B. {Neaton}, and A.~{Vishwanath}.
+\newblock Topological materials discovery using electron filling constraints.
+\newblock {\em Nature Physics}, 14:55, Oct 2017.
+\newblock Article.
+
+\bibitem{Cd3As2Chen2014}
+Z.~K. Liu, J.~Jiang, B.~Zhou, Z.~J. Wang, Y.~Zhang, H.~M. Weng, D.~Prabhakaran,
+  S-K. Mo, H.~Peng, P.~Dudin, T.~Kim, M.~Hoesch, Z.~Fang, X.~Dai, Z.~X. Shen,
+  D.~L. Feng, Z.~Hussain, and Y.~L. Chen.
+\newblock A stable three-dimensional topological dirac semimetal cd3as2.
+\newblock {\em Nat. Mater.}, 13:677, 07 2014.
+
+\bibitem{neupaneDiracHasan}
+Madhab Neupane, Su-Yang Xu, Raman Sankar, Nasser Alidoust, Guang Bian, Chang
+  Liu, Ilya Belopolski, Tay-Rong Chang, Horng-Tay Jeng, Hsin Lin, Arun Bansil,
+  Fangcheng Chou, and M.~Zahid Hasan.
+\newblock Observation of a three-dimensional topological dirac semimetal phase
+  in high-mobility cd3as2.
+\newblock {\em Nat. Commun.}, 5:3786, 05 2014.
+
+\bibitem{borisenkoPRLCd3As2}
+Sergey Borisenko, Quinn Gibson, Danil Evtushinsky, Volodymyr Zabolotnyy, Bernd
+  B\"uchner, and Robert~J. Cava.
+\newblock Experimental realization of a three-dimensional dirac semimetal.
+\newblock {\em Phys. Rev. Lett.}, 113:027603, Jul 2014.
+
+\bibitem{Liu21022014}
+Z.~K. Liu, B.~Zhou, Y.~Zhang, Z.~J. Wang, H.~M. Weng, D.~Prabhakaran, S.-K. Mo,
+  Z.~X. Shen, Z.~Fang, X.~Dai, Z.~Hussain, and Y.~L. Chen.
+\newblock Discovery of a three-dimensional topological dirac semimetal, na3bi.
+\newblock {\em Science}, 343(6173):864--867, 2014.
+
+\bibitem{Xu18122014}
+Su-Yang Xu, Chang Liu, Satya~K. Kushwaha, Raman Sankar, Jason~W. Krizan, Ilya
+  Belopolski, Madhab Neupane, Guang Bian, Nasser Alidoust, Tay-Rong Chang,
+  Horng-Tay Jeng, Cheng-Yi Huang, Wei-Feng Tsai, Hsin Lin, Pavel~P. Shibayev,
+  Fang-Cheng Chou, Robert~J. Cava, and M.~Zahid Hasan.
+\newblock Observation of fermi arc surface states in a topological metal.
+\newblock {\em Science}, 347(6219):294--298, 2015.
+
+\bibitem{Yazdani_CdAs}
+Sangjun Jeon, Brian~B. Zhou, Andras Gyenis, Benjamin~E. Feldman, Itamar Kimchi,
+  Andrew~C. Potter, Quinn~D. Gibson, Robert~J. Cava, Ashvin Vishwanath, and Ali
+  Yazdani.
+\newblock Landau quantization and quasiparticle interference in the
+  three-dimensional dirac semimetal cd3as2.
+\newblock {\em Nat. Mater.}, 13:851, 09 2014.
+
+\bibitem{KimLiBiSb13}
+Heon-Jung Kim, Ki-Seok Kim, J.-F. Wang, M.~Sasaki, N.~Satoh, A.~Ohnishi,
+  M.~Kitaura, M.~Yang, and L.~Li.
+\newblock Dirac versus weyl fermions in topological insulators:
+  Adler-bell-jackiw anomaly in transport phenomena.
+\newblock {\em Phys. Rev. Lett.}, 111:246603, Dec 2013.
+
+\bibitem{liangOngTransportCd3As2}
+Tian Liang, Quinn Gibson, Mazhar~N. Ali, Minhao Liu, R.~J. Cava, and N.~P. Ong.
+\newblock Ultrahigh mobility and giant magnetoresistance in the dirac semimetal
+  cd3as2.
+\newblock {\em Nat Mater}, 14(3):280--284, 03 2015.
+
+\bibitem{HeLi14}
+L.~P. He, X.~C. Hong, J.~K. Dong, J.~Pan, Z.~Zhang, J.~Zhang, and S.~Y. Li.
+\newblock Quantum transport evidence for the three-dimensional dirac semimetal
+  phase in ${\mathrm{cd}}_{3}{\mathrm{as}}_{2}$.
+\newblock {\em Phys. Rev. Lett.}, 113:246402, Dec 2014.
+
+\bibitem{XiangChen15}
+Z.~J. Xiang, D.~Zhao, Z.~Jin, C.~Shang, L.~K. Ma, G.~J. Ye, B.~Lei, T.~Wu,
+  Z.~C. Xia, and X.~H. Chen.
+\newblock Angular-dependent phase factor of shubnikov\char21{}de haas
+  oscillations in the dirac semimetal ${\mathrm{cd}}_{3}{\mathrm{as}}_{2}$.
+\newblock {\em Phys. Rev. Lett.}, 115:226401, Nov 2015.
+
+\bibitem{FengLuCd3As215}
+Junya Feng, Yuan Pang, Desheng Wu, Zhijun Wang, Hongming Weng, Jianqi Li,
+  Xi~Dai, Zhong Fang, Youguo Shi, and Li~Lu.
+\newblock Large linear magnetoresistance in dirac semimetal
+  ${\mathrm{cd}}_{3}{\mathrm{as}}_{2}$ with fermi surfaces close to the dirac
+  points.
+\newblock {\em Phys. Rev. B}, 92:081306, Aug 2015.
+
+\bibitem{LiYuCd3As215}
+C.-Z. {Li}, L.-X. {Wang}, H.~{Liu}, J.~{Wang}, Z.-M. {Liao}, and D.-P. {Yu}.
+\newblock {Giant negative magnetoresistance induced by the chiral anomaly in
+  individual Cd$_{3}$As$_{2}$ nanowires}.
+\newblock {\em Nature Communications}, 6:10137, December 2015.
+
+\bibitem{LiWangCd3As216}
+H.~{Li}, H.~{He}, H.-Z. {Lu}, H.~{Zhang}, H.~{Liu}, R.~{Ma}, Z.~{Fan}, S.-Q.
+  {Shen}, and J.~{Wang}.
+\newblock {Negative magnetoresistance in Dirac semimetal Cd$_{3}$As$_{2}$}.
+\newblock {\em Nature Communications}, 7:10301, January 2016.
+
+\bibitem{GuoLeeCd2As316}
+Shih-Ting Guo, R.~Sankar, Yung-Yu Chien, Tay-Rong Chang, Horng-Tay Jeng,
+  Guang-Yu Guo, F.~C. Chou, and Wei-Li Lee.
+\newblock Large transverse hall-like signal in topological dirac semimetal
+  cd3as2.
+\newblock {\em Scientific Reports}, 6:27487, Jun 2016.
+\newblock Article.
+
+\bibitem{ZhangXiuCd3As217}
+C.~{Zhang}, E.~{Zhang}, W.~{Wang}, Y.~{Liu}, Z.-G. {Chen}, S.~{Lu}, S.~{Liang},
+  J.~{Cao}, X.~{Yuan}, L.~{Tang}, Q.~{Li}, C.~{Zhou}, T.~{Gu}, Y.~{Wu},
+  J.~{Zou}, and F.~{Xiu}.
+\newblock {Room-temperature chiral charge pumping in Dirac semimetals}.
+\newblock {\em Nature Communications}, 8:13741, January 2017.
+
+\bibitem{XiongOng15}
+Jun Xiong, Satya~K. Kushwaha, Tian Liang, Jason~W. Krizan, Max Hirschberger,
+  Wudi Wang, R.~J. Cava, and N.~P. Ong.
+\newblock Evidence for the chiral anomaly in the dirac semimetal na3bi.
+\newblock {\em Science}, 350(6259):413--416, 2015.
+
+\bibitem{ZhengMingliangZrTe514}
+Guolin Zheng, Jianwei Lu, Xiangde Zhu, Wei Ning, Yuyan Han, Hongwei Zhang,
+  Jinglei Zhang, Chuanying Xi, Jiyong Yang, Haifeng Du, Kun Yang, Yuheng Zhang,
+  and Mingliang Tian.
+\newblock Transport evidence for the three-dimensional dirac semimetal phase in
+  $\mathrm{ZrT}{\mathrm{e}}_{5}$.
+\newblock {\em Phys. Rev. B}, 93:115414, Mar 2016.
+
+\bibitem{LiangOngHallZrTe516}
+Tian Liang, Jingjing Lin, Quinn Gibson, Satya Kushwaha, Minhao Liu, Wudi Wang,
+  Hongyu Xiong, Jonathan~A. Sobota, Makoto Hashimoto, Patrick~S. Kirchmann,
+  Zhi-Xun Shen, R.~J. Cava, and N.~P. Ong.
+\newblock Anomalous hall effect in zrte5.
+\newblock {\em Nature Physics}, 14(5):451--455, 2018.
+
+\bibitem{YuanXiuZrTe516}
+X.~{Yuan}, C.~{Zhang}, Y.~{Liu}, A.~{Narayan}, C.~{Song}, S.~{Shen}, X.~{Sui},
+  J.~{Xu}, H.~{Yu}, Z.~{An}, J.~{Zhao}, S.~{Sanvito}, H.~{Yan}, and F.~{Xiu}.
+\newblock {Observation of quasi-two-dimensional Dirac fermions in ZrTe5}.
+\newblock {\em NPG Asia Materials}, 8:e325, November 2016.
+
+\bibitem{WangWangHfTe516}
+Huichao Wang, Chao-Kai Li, Haiwen Liu, Jiaqiang Yan, Junfeng Wang, Jun Liu,
+  Ziquan Lin, Yanan Li, Yong Wang, Liang Li, David Mandrus, X.~C. Xie, Ji~Feng,
+  and Jian Wang.
+\newblock Chiral anomaly and ultrahigh mobility in crystalline
+  $\mathrm{HfT}{\mathrm{e}}_{5}$.
+\newblock {\em Phys. Rev. B}, 93:165127, Apr 2016.
+
+\bibitem{GaoTianPtBi217}
+Wenshuai Gao, Ningning Hao, Fa-Wei Zheng, Wei Ning, Min Wu, Xiangde Zhu, Guolin
+  Zheng, Jinglei Zhang, Jianwei Lu, Hongwei Zhang, Chuanying Xi, Jiyong Yang,
+  Haifeng Du, Ping Zhang, Yuheng Zhang, and Mingliang Tian.
+\newblock Extremely large magnetoresistance in a topological semimetal
+  candidate pyrite ${\mathrm{ptbi}}_{2}$.
+\newblock {\em Phys. Rev. Lett.}, 118:256601, Jun 2017.
+
+\bibitem{AkrapOrlitaCd2As316}
+A.~Akrap, M.~Hakl, S.~Tchoumakov, I.~Crassee, J.~Kuba, M.~O. Goerbig, C.~C.
+  Homes, O.~Caha, J.~Nov\'ak, F.~Teppe, W.~Desrat, S.~Koohpayeh, L.~Wu, N.~P.
+  Armitage, A.~Nateprov, E.~Arushanov, Q.~D. Gibson, R.~J. Cava, D.~van~der
+  Marel, B.~A. Piot, C.~Faugeras, G.~Martinez, M.~Potemski, and M.~Orlita.
+\newblock Magneto-optical signature of massless kane electrons in
+  ${\mathrm{cd}}_{3}{\mathrm{as}}_{2}$.
+\newblock {\em Phys. Rev. Lett.}, 117:136401, Sep 2016.
+
+\bibitem{LiangOngNernstCd3As217}
+Tian Liang, Jingjing Lin, Quinn Gibson, Tong Gao, Max Hirschberger, Minhao Liu,
+  R.~J. Cava, and N.~P. Ong.
+\newblock Anomalous nernst effect in the dirac semimetal
+  ${\mathrm{cd}}_{3}{\mathrm{as}}_{2}$.
+\newblock {\em Phys. Rev. Lett.}, 118:136601, Mar 2017.
+
+\bibitem{WengDaiFangZrTe514}
+Hongming Weng, Xi~Dai, and Zhong Fang.
+\newblock Transition-metal pentatelluride $\mathrm{ZrTe}{}_{5}$ and
+  $\mathrm{HfTe}{}_{5}$: A paradigm for large-gap quantum spin hall insulators.
+\newblock {\em Phys. Rev. X}, 4:011002, Jan 2014.
+
+\bibitem{LiXingZrTe516}
+Xiang-Bing Li, Wen-Kai Huang, Yang-Yang Lv, Kai-Wen Zhang, Chao-Long Yang,
+  Bin-Bin Zhang, Y.~B. Chen, Shu-Hua Yao, Jian Zhou, Ming-Hui Lu, Li~Sheng,
+  Shao-Chun Li, Jin-Feng Jia, Qi-Kun Xue, Yan-Feng Chen, and Ding-Yu Xing.
+\newblock Experimental observation of topological edge states at the surface
+  step edge of the topological insulator ${\mathrm{zrte}}_{5}$.
+\newblock {\em Phys. Rev. Lett.}, 116:176803, Apr 2016.
+
+\bibitem{WuPanZrTe516}
+R.~Wu, J.-Z. Ma, S.-M. Nie, L.-X. Zhao, X.~Huang, J.-X. Yin, B.-B. Fu,
+  P.~Richard, G.-F. Chen, Z.~Fang, X.~Dai, H.-M. Weng, T.~Qian, H.~Ding, and
+  S.~H. Pan.
+\newblock Evidence for topological edge states in a large energy gap near the
+  step edges on the surface of ${\mathrm{zrte}}_{5}$.
+\newblock {\em Phys. Rev. X}, 6:021017, May 2016.
+
+\bibitem{MoreschiniGrioniZrTe516}
+L.~Moreschini, J.~C. Johannsen, H.~Berger, J.~Denlinger, C.~Jozwiak,
+  E.~Rotenberg, K.~S. Kim, A.~Bostwick, and M.~Grioni.
+\newblock Nature and topology of the low-energy states in
+  ${\mathrm{zrte}}_{5}$.
+\newblock {\em Phys. Rev. B}, 94:081101, Aug 2016.
+
+\bibitem{ManzoniCrepaldiZrTe516}
+G.~Manzoni, L.~Gragnaniello, G.~Aut\`es, T.~Kuhn, A.~Sterzi, F.~Cilento,
+  M.~Zacchigna, V.~Enenkel, I.~Vobornik, L.~Barba, F.~Bisti, Ph. Bugnon,
+  A.~Magrez, V.~N. Strocov, H.~Berger, O.~V. Yazyev, M.~Fonin, F.~Parmigiani,
+  and A.~Crepaldi.
+\newblock Evidence for a strong topological insulator phase in
+  ${\mathrm{zrte}}_{5}$.
+\newblock {\em Phys. Rev. Lett.}, 117:237601, Nov 2016.
+
+\bibitem{ManzoniParmigianiZrTe517}
+G.~Manzoni, A.~Crepaldi, G.~Autès, A.~Sterzi, F.~Cilento, A.~Akrap,
+  I.~Vobornik, L.~Gragnaniello, Ph. Bugnon, M.~Fonin, H.~Berger, M.~Zacchigna,
+  O.V. Yazyev, and F.~Parmigiani.
+\newblock Temperature dependent non-monotonic bands shift in zrte5.
+\newblock {\em Journal of Electron Spectroscopy and Related Phenomena},
+  219(Supplement C):9 -- 15, 2017.
+\newblock SI: The electronic structure of 2D and layered materials.
+
+\bibitem{FanZhouZrTe517}
+Z.~{Fan}, Q.-F. {Liang}, Y.~B. {Chen}, S.-H. {Yao}, and J.~{Zhou}.
+\newblock {Transition between strong and weak topological insulator in
+  ZrTe$_{5}$ and HfTe$_{5}$}.
+\newblock {\em Scientific Reports}, 7:45667, April 2017.
+
+\bibitem{WangPotterSenthilgapTI13}
+Chong Wang, Andrew~C. Potter, and T.~Senthil.
+\newblock Gapped symmetry preserving surface state for the electron topological
+  insulator.
+\newblock {\em Phys. Rev. B}, 88:115137, Sep 2013.
+
+\bibitem{MetlitskiKaneFisher13b}
+Max~A. Metlitski, C.~L. Kane, and Matthew P.~A. Fisher.
+\newblock Symmetry-respecting topologically ordered surface phase of
+  three-dimensional electron topological insulators.
+\newblock {\em Phys. Rev. B}, 92:125111, Sep 2015.
+
+\bibitem{ChenFidkowskiVishwanath14}
+Xie Chen, Lukasz Fidkowski, and Ashvin Vishwanath.
+\newblock Symmetry enforced non-abelian topological order at the surface of a
+  topological insulator.
+\newblock {\em Phys. Rev. B}, 89:165132, Apr 2014.
+
+\bibitem{BondersonNayakQi13}
+Parsa Bonderson, Chetan Nayak, and Xiao-Liang Qi.
+\newblock A time-reversal invariant topological phase at the surface of a 3d
+  topological insulator.
+\newblock {\em Journal of Statistical Mechanics: Theory and Experiment},
+  2013(09):P09016, 2013.
+
+\bibitem{LukaszChenVishwanath}
+Lukasz Fidkowski, Xie Chen, and Ashvin Vishwanath.
+\newblock Non-abelian topological order on the surface of a 3d topological
+  superconductor from an exactly solved model.
+\newblock {\em Phys. Rev. X},
+  \href{http://link.aps.org/doi/10.1103/PhysRevX.3.041016}{3}:041016, Nov 2013.
+
+\bibitem{MetlitskiFidkowskiChenVishwanath14}
+M.~A. {Metlitski}, L.~{Fidkowski}, X.~{Chen}, and A.~{Vishwanath}.
+\newblock {Interaction effects on 3D topological superconductors: surface
+  topological order from vortex condensation, the 16 fold way and fermionic
+  Kramers doublets}.
+\newblock {\em ArXiv e-prints}, June 2014.
+
+\bibitem{OHernLubenskyToner99}
+C.~S. O'Hern, T.~C. Lubensky, and J.~Toner.
+\newblock Sliding phases in $\mathit{XY}$ models, crystals, and cationic
+  lipid-dna complexes.
+\newblock {\em Phys. Rev. Lett.}, 83:2745--2748, Oct 1999.
+
+\bibitem{EmeryFradkinKivelsonLubensky00}
+V.~J. Emery, E.~Fradkin, S.~A. Kivelson, and T.~C. Lubensky.
+\newblock Quantum theory of the smectic metal state in stripe phases.
+\newblock {\em Phys. Rev. Lett.}, 85:2160--2163, Sep 2000.
+
+\bibitem{VishwanathCarpentier01}
+Ashvin Vishwanath and David Carpentier.
+\newblock Two-dimensional anisotropic non-fermi-liquid phase of coupled
+  luttinger liquids.
+\newblock {\em Phys. Rev. Lett.}, 86:676--679, Jan 2001.
+
+\bibitem{SondhiYang01}
+S.~L. Sondhi and Kun Yang.
+\newblock Sliding phases via magnetic fields.
+\newblock {\em Phys. Rev. B}, 63:054430, Jan 2001.
+
+\bibitem{MukhopadhyayKaneLubensky01}
+Ranjan Mukhopadhyay, C.~L. Kane, and T.~C. Lubensky.
+\newblock Crossed sliding luttinger liquid phase.
+\newblock {\em Phys. Rev. B}, 63:081103, Feb 2001.
+
+\bibitem{KaneMukhopadhyayLubensky02}
+C.~L. Kane, Ranjan Mukhopadhyay, and T.~C. Lubensky.
+\newblock Fractional quantum hall effect in an array of quantum wires.
+\newblock {\em Phys. Rev. Lett.}, 88:036401, Jan 2002.
+
+\bibitem{Laughlin83}
+R.~B. Laughlin.
+\newblock Anomalous quantum hall effect: An incompressible quantum fluid with
+  fractionally charged excitations.
+\newblock {\em Phys. Rev. Lett.}, 50:1395--1398, May 1983.
+
+\bibitem{Haldane83}
+F.~D.~M. Haldane.
+\newblock Fractional quantization of the hall effect: A hierarchy of
+  incompressible quantum fluid states.
+\newblock {\em Phys. Rev. Lett.},
+  51:\href{http://link.aps.org/doi/10.1103/PhysRevLett.51.605}{605}, 1983.
+
+\bibitem{Halperin84}
+B.~I. Halperin.
+\newblock Statistics of quasiparticles and the hierarchy of fractional
+  quantized hall states.
+\newblock {\em Phys. Rev. Lett.},
+  52:\href{http://link.aps.org/doi/10.1103/PhysRevLett.52.1583}{1583}, 1984.
+
+\bibitem{KlinovajaLoss14}
+Jelena Klinovaja and Daniel Loss.
+\newblock Integer and fractional quantum hall effect in a strip of stripes.
+\newblock {\em The European Physical Journal B}, 87:171, 2014.
+
+\bibitem{MengStanoKlinovajaLoss14}
+Tobias Meng, Peter Stano, Jelena Klinovaja, and Daniel Loss.
+\newblock Helical nuclear spin order in a strip of stripes in the quantum hall
+  regime.
+\newblock {\em The European Physical Journal B}, 87:203, 2014.
+
+\bibitem{SagiOregSternHalperin15}
+Eran Sagi, Yuval Oreg, Ady Stern, and Bertrand~I. Halperin.
+\newblock Imprint of topological degeneracy in quasi-one-dimensional fractional
+  quantum hall states.
+\newblock {\em Phys. Rev. B}, 91:245144, Jun 2015.
+
+\bibitem{OregSelaStern14}
+Yuval Oreg, Eran Sela, and Ady Stern.
+\newblock Fractional helical liquids in quantum wires.
+\newblock {\em Phys. Rev. B}, 89:115402, Mar 2014.
+
+\bibitem{StoudenmireClarkeMongAlicea15}
+E.~M. Stoudenmire, David~J. Clarke, Roger S.~K. Mong, and Jason Alicea.
+\newblock Assembling fibonacci anyons from a ${\mathbb{z}}_{3}$ parafermion
+  lattice model.
+\newblock {\em Phys. Rev. B}, 91:235112, Jun 2015.
+
+\bibitem{MengNeupertGreiterThomale15}
+Tobias Meng, Titus Neupert, Martin Greiter, and Ronny Thomale.
+\newblock Coupled-wire construction of chiral spin liquids.
+\newblock {\em Phys. Rev. B}, 91:241106, Jun 2015.
+
+\bibitem{GorohovskyPereiraSela15}
+Gregory Gorohovsky, Rodrigo~G. Pereira, and Eran Sela.
+\newblock Chiral spin liquids in arrays of spin chains.
+\newblock {\em Phys. Rev. B}, 91:245139, Jun 2015.
+
+\bibitem{NeupertChamonMudryThomale14}
+Titus Neupert, Claudio Chamon, Christopher Mudry, and Ronny Thomale.
+\newblock Wire deconstructionism of two-dimensional topological phases.
+\newblock {\em Phys. Rev. B}, 90:205101, Nov 2014.
+
+\bibitem{KlinovajaTserkovnyak14}
+Jelena Klinovaja and Yaroslav Tserkovnyak.
+\newblock Quantum spin hall effect in strip of stripes model.
+\newblock {\em Phys. Rev. B}, 90:115426, Sep 2014.
+
+\bibitem{SagiOreg14}
+Eran Sagi and Yuval Oreg.
+\newblock Non-abelian topological insulators from an array of quantum wires.
+\newblock {\em Phys. Rev. B}, 90:201102, Nov 2014.
+
+\bibitem{SagiOreg15}
+Eran Sagi and Yuval Oreg.
+\newblock From an array of quantum wires to three-dimensional fractional
+  topological insulators.
+\newblock {\em Phys. Rev. B}, 92:195137, Nov 2015.
+
+\bibitem{SantosHuangGefenGutman15}
+Raul~A. Santos, Chia-Wei Huang, Yuval Gefen, and D.~B. Gutman.
+\newblock Fractional topological insulators: From sliding luttinger liquids to
+  chern-simons theory.
+\newblock {\em Phys. Rev. B}, 91:205141, May 2015.
+
+\bibitem{mongg2}
+Roger~S.K. Mong, David~J. Clarke, Jason Alicea, Netanel~H. Lindner, Paul
+  Fendley, Chetan Nayak, Yuval Oreg, Ady Stern, Erez Berg, Kirill Shtengel, and
+  Matthew~P.A. Fisher.
+\newblock Universal topological quantum computation from a
+  superconductor-abelian quantum hall heterostructure.
+\newblock {\em Phys. Rev. X}, 4:011036, Mar 2014.
+
+\bibitem{SeroussiBergOreg14}
+Inbar Seroussi, Erez Berg, and Yuval Oreg.
+\newblock Topological superconducting phases of weakly coupled quantum wires.
+\newblock {\em Phys. Rev. B}, 89:104523, Mar 2014.
+
+\bibitem{MrossAliceaMotrunich16}
+David~F. Mross, Jason Alicea, and Olexei~I. Motrunich.
+\newblock Explicit derivation of duality between a free dirac cone and quantum
+  electrodynamics in ($2+1$) dimensions.
+\newblock {\em Phys. Rev. Lett.}, 117:016802, Jun 2016.
+
+\bibitem{MrossAliceaMotrunich17}
+David~F. Mross, Jason Alicea, and Olexei~I. Motrunich.
+\newblock Symmetry and duality in bosonization of two-dimensional dirac
+  fermions.
+\newblock {\em Phys. Rev. X}, 7:041016, Oct 2017.
+
+\bibitem{Meng15}
+Tobias Meng.
+\newblock Fractional topological phases in three-dimensional coupled-wire
+  systems.
+\newblock {\em Phys. Rev. B}, 92:115152, Sep 2015.
+
+\bibitem{IadecolaNeupertChamonMudry16}
+Thomas Iadecola, Titus Neupert, Claudio Chamon, and Christopher Mudry.
+\newblock Wire constructions of abelian topological phases in three or more
+  dimensions.
+\newblock {\em Phys. Rev. B}, 93:195136, May 2016.
+
+\bibitem{IadecolaNeupertChamonMudry17}
+T.~{Iadecola}, T.~{Neupert}, C.~{Chamon}, and C.~{Mudry}.
+\newblock {Non-Abelian topological phases in three spatial dimensions from
+  coupled wires}.
+\newblock {\em ArXiv e-prints}, March 2017.
+
+\bibitem{Vazifeh13}
+M.~M. Vazifeh.
+\newblock Weyl semimetal from the honeycomb array of topological insulator
+  nanowires.
+\newblock {\em EPL (Europhysics Letters)}, 102(6):67011, 2013.
+
+\bibitem{MengGrushinShtengelBardarson16}
+Tobias Meng, Adolfo~G. Grushin, Kirill Shtengel, and Jens~H. Bardarson.
+\newblock Theory of a 3+1d fractional chiral metal: Interacting variant of the
+  weyl semimetal.
+\newblock {\em Phys. Rev. B}, 94:155136, Oct 2016.
+
+\bibitem{SahooZhangTeo15}
+Sharmistha Sahoo, Zhao Zhang, and Jeffrey C.~Y. Teo.
+\newblock Coupled wire model of symmetric majorana surfaces of topological
+  superconductors.
+\newblock {\em Phys. Rev. B}, 94:165142, Oct 2016.
+
+\bibitem{TeoKane}
+Jeffrey C.~Y. Teo and C.~L. Kane.
+\newblock Topological defects and gapless modes in insulators and
+  superconductors.
+\newblock {\em Phys. Rev. B}, 82:115120, Sep 2010.
+
+\bibitem{JackiwRossi81}
+R.~Jackiw and P.~Rossi.
+\newblock Zero modes of the vortex-fermion system.
+\newblock {\em Nucl. Phys. B}, 190:681, 1981.
+
+\bibitem{AtiyahSinger63}
+Michael~F. Atiyah and Isadore~M. Singer.
+\newblock The index of elliptic operators on compact manifolds.
+\newblock {\em Bull. Amer. Math. Soc.}, 69:422, 1963.
+
+\bibitem{Nakaharabook}
+Mikio Nakahara.
+\newblock {\em Geometry, Topology and Physics, Second Edition (Graduate Student
+  Series in Physics)}.
+\newblock Taylor \& Francis, 06 2003.
+
+\bibitem{ReinhardtWalker10}
+William~P. Reinhardt and Peter~L. Walker.
+\newblock {\em Jacobian Elliptic Functions}, chapter~22.
+\newblock Cambridge University Press, 2010.
+
+\bibitem{MongEssinMoore10}
+Roger S.~K. Mong, Andrew~M. Essin, and Joel~E. Moore.
+\newblock Antiferromagnetic topological insulators.
+\newblock {\em Phys. Rev. B}, 81:245209, Jun 2010.
+
+\bibitem{SSH}
+W.~P. Su, J.~R. Schrieffer, and A.~J. Heeger.
+\newblock Soliton excitations in polyacetylene.
+\newblock {\em Phys. Rev. B}, 22:2099--2111, Aug 1980.
+
+\bibitem{SchnyderRyuFurusakiLudwig08}
+Andreas~P. Schnyder, Shinsei Ryu, Akira Furusaki, and Andreas W.~W. Ludwig.
+\newblock Classification of topological insulators and superconductors in three
+  spatial dimensions.
+\newblock {\em Phys. Rev. B}, 78:195125, 2008.
+
+\bibitem{Kitaevtable08}
+Alexei Kitaev.
+\newblock Periodic table for topological insulators and superconductors.
+\newblock {\em AIP Conf. Proc.}, 1134:22, 2008.
+
+\bibitem{JackiwRebbi76}
+R.~Jackiw and C.~Rebbi.
+\newblock Solitons with fermion number \textonehalf{}.
+\newblock {\em Phys. Rev. D}, 13:3398--3409, Jun 1976.
+
+\bibitem{bigyellowbook}
+P.~Di~Francesco, P.~Mathieu, and D.~Senechal.
+\newblock {\em Conformal Field Theory}.
+\newblock Springer, New York, 1999.
+
+\bibitem{MooreRead}
+N.~Read and G.~Moore.
+\newblock Nonabelions in the fractional quantum hall effect.
+\newblock {\em Nucl. Phys. B}, 360:362, 1991.
+
+\bibitem{ReadMoore}
+N.~Read and G.~Moore.
+\newblock Fractional quantum hall effect and nonabelian statistics.
+\newblock {\em Progress of Theoretical Physics Supplement}, 107:157--166, 1992.
+
+\bibitem{GreiterWenWilczekPRL91}
+Martin Greiter, Xiao-Gang Wen, and Frank Wilczek.
+\newblock Paired hall state at half filling.
+\newblock {\em Phys. Rev. Lett.}, 66:3205--3208, Jun 1991.
+
+\bibitem{GreiterWenWilczek91}
+Martin Greiter, Xiao-Gang Wen, and Frank Wilczek.
+\newblock Paired hall states.
+\newblock {\em Nucl. Phys. B}, 374:567, 1992.
+
+\bibitem{LevinHalperinRosenow07}
+Michael Levin, Bertrand~I. Halperin, and Bernd Rosenow.
+\newblock Particle-hole symmetry and the pfaffian state.
+\newblock {\em Phys. Rev. Lett.}, 99:236806, Dec 2007.
+
+\bibitem{LeeRyuNayakFisher07}
+Sung-Sik Lee, Shinsei Ryu, Chetan Nayak, and Matthew P.~A. Fisher.
+\newblock Particle-hole symmetry and the $\ensuremath{\nu}=\frac{5}{2}$ quantum
+  hall state.
+\newblock {\em Phys. Rev. Lett.}, 99:236807, Dec 2007.
+
+\bibitem{WenZee92}
+Xiao-Gang Wen and A.~Zee.
+\newblock Classification of abelian quantum hall states and matrix formulation
+  of topological fluids.
+\newblock {\em Phys. Rev. B}, 46:2290, 1992.
+
+\bibitem{Wenedgereview}
+Xiao-Gang Wen.
+\newblock Topological orders and edge excitations in fractional quantum hall
+  states.
+\newblock {\em Advances in Physics}, 44(5):405, 1995.
+
+\bibitem{Haldane95}
+F.~D.~M. Haldane.
+\newblock Stability of chiral luttinger liquids and abelian quantum hall
+  states.
+\newblock {\em Phys. Rev. Lett.}, 74:2090--2093, Mar 1995.
+
+\bibitem{BaisSlingerlandCondensation}
+F.~A. Bais and J.~K. Slingerland.
+\newblock Condensate-induced transitions between topologically ordered phases.
+\newblock {\em Phys. Rev. B}, 79:045316, Jan 2009.
+
+\bibitem{Ginsparg88}
+Paul Ginsparg.
+\newblock Curiosity at c=1.
+\newblock {\em Nucl. Phys. B}, 295:153, 1988.
+
+\bibitem{DijkgraafVafaVerlindeVerlinde99}
+Robbert Dijkgraaf, Cumrun Vafa, Erik Verlinde, and Herman Verlinde.
+\newblock The operator algebra of orbifold models.
+\newblock {\em Comm. Math. Phys.}, 123:485, 1989.
+
+\bibitem{Kitaevchain}
+A.~Yu Kitaev.
+\newblock Unpaired majorana fermions in quantum wires.
+\newblock {\em Phys.-Usp.}, 44:131, 2001.
+
+\bibitem{Fradkinbook}
+Eduardo Fradkin.
+\newblock {\em Field Theories of Condensed Matter Physics}.
+\newblock Cambridge University Press, second edition, 2013.
+
+\bibitem{Tsvelikbook}
+Alexei~M. Tsvelik.
+\newblock {\em Quantum Field Theory in Condensed Matter Physics}.
+\newblock Cambridge University Press, second edition, 2007.
+
+\bibitem{RevModPhys.82.3045}
+M.~Z. Hasan and C.~L. Kane.
+\newblock Colloquium: Topological insulators.
+\newblock {\em Rev. Mod. Phys.}, 82:3045--3067, Nov 2010.
+
+\bibitem{RevModPhys.83.1057}
+Xiao-Liang Qi and Shou-Cheng Zhang.
+\newblock Topological insulators and superconductors.
+\newblock {\em Rev. Mod. Phys.}, 83:1057--1110, Oct 2011.
+
+\bibitem{RevModPhys.88.035005}
+Ching-Kai Chiu, Jeffrey C.~Y. Teo, Andreas~P. Schnyder, and Shinsei Ryu.
+\newblock Classification of topological quantum matter with symmetries.
+\newblock {\em Rev. Mod. Phys.}, 88:035005, Aug 2016.
+
+\bibitem{doi:10.1002/pssr.201206451}
+Cayssol Jérôme, Dóra Balázs, Simon Ferenc, and Moessner Roderich.
+\newblock Floquet topological insulators.
+\newblock {\em physica status solidi (RRL) – Rapid Research Letters},
+  7(1‐2):101--108.
+
+\bibitem{doi:10.1146/annurev-conmatphys-031214-014749}
+Maxim Dzero, Jing Xia, Victor Galitski, and Piers Coleman.
+\newblock Topological kondo insulators.
+\newblock {\em Annual Review of Condensed Matter Physics}, 7(1):249--280, 2016.
+
+\bibitem{doi:10.1146/annurev-conmatphys-031214-014501}
+Yoichi Ando and Liang Fu.
+\newblock Topological crystalline insulators and topological superconductors:
+  From concepts to materials.
+\newblock {\em Annual Review of Condensed Matter Physics}, 6(1):361--381, 2015.
+
+\bibitem{PhysRevX.5.031013}
+B.~Q. Lv, H.~M. Weng, B.~B. Fu, X.~P. Wang, H.~Miao, J.~Ma, P.~Richard, X.~C.
+  Huang, L.~X. Zhao, G.~F. Chen, Z.~Fang, X.~Dai, T.~Qian, and H.~Ding.
+\newblock Experimental discovery of weyl semimetal taas.
+\newblock {\em Phys. Rev. X}, 5:031013, Jul 2015.
+
+\bibitem{Liu2015}
+Z.~K. Liu, L.~X. Yang, Y.~Sun, T.~Zhang, H.~Peng, H.~F. Yang, C.~Chen,
+  Y.~Zhang, Y.~?.~F. Guo, D.~Prabhakaran, M.~Schmidt, Z.~Hussain, S.-K. Mo,
+  C.~Felser, B.~Yan, and Y.~L. Chen.
+\newblock Evolution of the fermi surface of weyl semimetals in the transition
+  metal pnictide family.
+\newblock {\em Nature Materials}, 15:27 EP --, Nov 2015.
+
+\bibitem{Xu2015}
+Su-Yang Xu, Nasser Alidoust, Ilya Belopolski, Zhujun Yuan, Guang Bian, Tay-Rong
+  Chang, Hao Zheng, Vladimir~N. Strocov, Daniel~S. Sanchez, Guoqing Chang,
+  Chenglong Zhang, Daixiang Mou, Yun Wu, Lunan Huang, Chi-Cheng Lee, Shin-Ming
+  Huang, BaoKai Wang, Arun Bansil, Horng-Tay Jeng, Titus Neupert, Adam
+  Kaminski, Hsin Lin, Shuang Jia, and M.~Zahid~Hasan.
+\newblock Discovery of a weyl fermion state with fermi arcs in niobium
+  arsenide.
+\newblock {\em Nature Physics}, 11:748 EP --, Aug 2015.
+\newblock Article.
+
+\bibitem{MoTe}
+N.~Xu and et~al.
+\newblock 2016.
+
+\bibitem{MoTe2}
+A.~Liang and et~al.
+\newblock 2016.
+
+\bibitem{WTe}
+C.~Wang and et~al.
+\newblock 2016.
+
+\bibitem{WTe2}
+F.~Y. Bruno and et~al.
+\newblock 2016.
+
+\bibitem{type2}
+Alexey~A. Soluyanov, Dominik Gresch, Zhijun Wang, QuanSheng Wu, Matthias
+  Troyer, Xi~Dai, and B.~Andrei Bernevig.
+\newblock {\em Nature}, 527:495, 2015.
+
+\bibitem{PhysRev.177.2426}
+Stephen~L. Adler.
+\newblock Axial-vector vertex in spinor electrodynamics.
+\newblock {\em Phys. Rev.}, 177:2426--2438, Jan 1969.
+
+\bibitem{Bell1969}
+J.~S. Bell and R.~Jackiw.
+\newblock A pcac puzzle: $\pi$0{\textrightarrow}$\gamma$$\gamma$ in the
+  $\sigma$-model.
+\newblock {\em Il Nuovo Cimento A (1965-1970)}, 60(1):47--61, 1969.
+
+\bibitem{Nielsen1983}
+H.B. Nielsen and Masao Ninomiya.
+\newblock {\em Phys. Lett. B}, 130:389, 1983.
+
+\bibitem{PhysRevX.4.031035}
+S.~A. Parameswaran, T.~Grover, D.~A. Abanin, D.~A. Pesin, and A.~Vishwanath.
+\newblock Probing the chiral anomaly with nonlocal transport in
+  three-dimensional topological semimetals.
+\newblock {\em Phys. Rev. X}, 4:031035, Sep 2014.
+
+\bibitem{Li2016}
+Hui Li, Hongtao He, Hai-Zhou Lu, Huachen Zhang, Hongchao Liu, Rong Ma, Zhiyong
+  Fan, Shun-Qing Shen, and Jiannong Wang.
+\newblock Negative magnetoresistance in dirac semimetal cd3as2.
+\newblock {\em Nature Communications}, 7:10301 EP --, Jan 2016.
+\newblock Article.
+
+\bibitem{PhysRevB.92.161110}
+Pallab Goswami, Girish Sharma, and Sumanta Tewari.
+\newblock Optical activity as a test for dynamic chiral magnetic effect of weyl
+  semimetals.
+\newblock {\em Phys. Rev. B}, 92:161110, Oct 2015.
+
+\bibitem{PhysRevB.89.081407}
+Maxim~N. Chernodub, Alberto Cortijo, Adolfo~G. Grushin, Karl Landsteiner, and
+  Mar\'{\i}a A.~H. Vozmediano.
+\newblock Condensed matter realization of the axial magnetic effect.
+\newblock {\em Phys. Rev. B}, 89:081407, Feb 2014.
+
+\bibitem{PhysRevB.89.075124}
+Karl Landsteiner.
+\newblock Anomalous transport of weyl fermions in weyl semimetals.
+\newblock {\em Phys. Rev. B}, 89:075124, Feb 2014.
+
+\bibitem{PhysRevX.5.031023}
+Xiaochun Huang, Lingxiao Zhao, Yujia Long, Peipei Wang, Dong Chen, Zhanhai
+  Yang, Hui Liang, Mianqi Xue, Hongming Weng, Zhong Fang, Xi~Dai, and Genfu
+  Chen.
+\newblock Observation of the chiral-anomaly-induced negative magnetoresistance
+  in 3d weyl semimetal taas.
+\newblock {\em Phys. Rev. X}, 5:031023, Aug 2015.
+
+\bibitem{PhysRevB.88.104412}
+D.~T. Son and B.~Z. Spivak.
+\newblock Chiral anomaly and classical negative magnetoresistance of weyl
+  metals.
+\newblock {\em Phys. Rev. B}, 88:104412, Sep 2013.
+
+\bibitem{Liu864}
+Z.~K. Liu, B.~Zhou, Y.~Zhang, Z.~J. Wang, H.~M. Weng, D.~Prabhakaran, S.-K. Mo,
+  Z.~X. Shen, Z.~Fang, X.~Dai, Z.~Hussain, and Y.~L. Chen.
+\newblock Discovery of a three-dimensional topological dirac semimetal, na3bi.
+\newblock {\em Science}, 343(6173):864--867, 2014.
+
+\bibitem{PhysRevB.85.195320}
+Zhijun Wang, Yan Sun, Xing-Qiu Chen, Cesare Franchini, Gang Xu, Hongming Weng,
+  Xi~Dai, and Zhong Fang.
+\newblock Dirac semimetal and topological phase transitions in ${A}_{3}$bi
+  ($a=\text{Na}$, k, rb).
+\newblock {\em Phys. Rev. B}, 85:195320, May 2012.
+
+\bibitem{Xu294}
+Su-Yang Xu, Chang Liu, Satya~K. Kushwaha, Raman Sankar, Jason~W. Krizan, Ilya
+  Belopolski, Madhab Neupane, Guang Bian, Nasser Alidoust, Tay-Rong Chang,
+  Horng-Tay Jeng, Cheng-Yi Huang, Wei-Feng Tsai, Hsin Lin, Pavel~P. Shibayev,
+  Fang-Cheng Chou, Robert~J. Cava, and M.~Zahid Hasan.
+\newblock Observation of fermi arc surface states in a topological metal.
+\newblock {\em Science}, 347(6219):294--298, 2015.
+
+\bibitem{Xiong413}
+Jun Xiong, Satya~K. Kushwaha, Tian Liang, Jason~W. Krizan, Max Hirschberger,
+  Wudi Wang, R.~J. Cava, and N.~P. Ong.
+\newblock Evidence for the chiral anomaly in the dirac semimetal na3bi.
+\newblock {\em Science}, 350(6259):413--416, 2015.
+
+\bibitem{Liu2014}
+Z.~K. Liu, J.~Jiang, B.~Zhou, Z.~J. Wang, Y.~Zhang, H.~M. Weng, D.~Prabhakaran,
+  S.-K. Mo, H.~Peng, P.~Dudin, T.~Kim, M.~Hoesch, Z.~Fang, X.~Dai, Z.~X. Shen,
+  D.~L. Feng, Z.~Hussain, and Y.~L. Chen.
+\newblock A stable three-dimensional topological dirac semimetal cd3as2.
+\newblock {\em Nature Materials}, 13:677 EP --, May 2014.
+
+\bibitem{PhysRevB.88.125427}
+Zhijun Wang, Hongming Weng, Quansheng Wu, Xi~Dai, and Zhong Fang.
+\newblock Three-dimensional dirac semimetal and quantum transport in
+  cd${}_{3}$as${}_{2}$.
+\newblock {\em Phys. Rev. B}, 88:125427, Sep 2013.
+
+\bibitem{Neupane2014}
+Madhab Neupane, Su-Yang Xu, Raman Sankar, Nasser Alidoust, Guang Bian, Chang
+  Liu, Ilya Belopolski, Tay-Rong Chang, Horng-Tay Jeng, Hsin Lin, Arun Bansil,
+  Fangcheng Chou, and M.~Zahid Hasan.
+\newblock Observation of a three-dimensional topological dirac semimetal phase
+  in high-mobility cd3as2.
+\newblock {\em Nature Communications}, 5:3786 EP --, May 2014.
+\newblock Article.
+
+\bibitem{PhysRevLett.113.027603}
+Sergey Borisenko, Quinn Gibson, Danil Evtushinsky, Volodymyr Zabolotnyy, Bernd
+  B\"uchner, and Robert~J. Cava.
+\newblock Experimental realization of a three-dimensional dirac semimetal.
+\newblock {\em Phys. Rev. Lett.}, 113:027603, Jul 2014.
+
+\bibitem{Jeon2014}
+Sangjun Jeon, Brian~B. Zhou, Andras Gyenis, Benjamin~E. Feldman, Itamar Kimchi,
+  Andrew~C. Potter, Quinn~D. Gibson, Robert~J. Cava, Ashvin Vishwanath, and Ali
+  Yazdani.
+\newblock Landau quantization and quasiparticle interference in the
+  three-dimensional dirac?semimetal cd3as2.
+\newblock {\em Nature Materials}, 13:851 EP --, Jun 2014.
+
+\bibitem{Liang2014}
+Tian Liang, Quinn Gibson, Mazhar~N. Ali, Minhao Liu, R.~J. Cava, and N.~P. Ong.
+\newblock Ultrahigh mobility and giant magnetoresistance in the dirac
+  semimetal?cd3as2.
+\newblock {\em Nature Materials}, 14:280 EP --, Nov 2014.
+
+\bibitem{PhysRevLett.113.246402}
+L.~P. He, X.~C. Hong, J.~K. Dong, J.~Pan, Z.~Zhang, J.~Zhang, and S.~Y. Li.
+\newblock Quantum transport evidence for the three-dimensional dirac semimetal
+  phase in ${\mathrm{cd}}_{3}{\mathrm{as}}_{2}$.
+\newblock {\em Phys. Rev. Lett.}, 113:246402, Dec 2014.
+
+\bibitem{PhysRevLett.115.226401}
+Z.~J. Xiang, D.~Zhao, Z.~Jin, C.~Shang, L.~K. Ma, G.~J. Ye, B.~Lei, T.~Wu,
+  Z.~C. Xia, and X.~H. Chen.
+\newblock Angular-dependent phase factor of shubnikov--de haas oscillations in
+  the dirac semimetal ${\mathrm{cd}}_{3}{\mathrm{as}}_{2}$.
+\newblock {\em Phys. Rev. Lett.}, 115:226401, Nov 2015.
+
+\bibitem{PhysRevB.92.081306}
+Junya Feng, Yuan Pang, Desheng Wu, Zhijun Wang, Hongming Weng, Jianqi Li,
+  Xi~Dai, Zhong Fang, Youguo Shi, and Li~Lu.
+\newblock Large linear magnetoresistance in dirac semimetal
+  ${\mathrm{cd}}_{3}{\mathrm{as}}_{2}$ with fermi surfaces close to the dirac
+  points.
+\newblock {\em Phys. Rev. B}, 92:081306, Aug 2015.
+
+\bibitem{Li2015}
+Cai-Zhen Li, Li-Xian Wang, Haiwen Liu, Jian Wang, Zhi-Min Liao, and Da-Peng Yu.
+\newblock Giant negative magnetoresistance induced by the chiral anomaly in
+  individual cd3as2 nanowires.
+\newblock {\em Nature Communications}, 6:10137 EP --, Dec 2015.
+\newblock Article.
+
+\bibitem{Guo2016}
+Shih-Ting Guo, R.~Sankar, Yung-Yu Chien, Tay-Rong Chang, Horng-Tay Jeng,
+  Guang-Yu Guo, F.~C. Chou, and Wei-Li Lee.
+\newblock Large transverse hall-like signal in topological dirac semimetal
+  cd3as2.
+\newblock {\em Scientific Reports}, 6:27487 EP --, Jun 2016.
+\newblock Article.
+
+\bibitem{Zhang2017}
+Cheng Zhang, Enze Zhang, Weiyi Wang, Yanwen Liu, Zhi-Gang Chen, Shiheng Lu,
+  Sihang Liang, Junzhi Cao, Xiang Yuan, Lei Tang, Qian Li, Chao Zhou, Teng Gu,
+  Yizheng Wu, Jin Zou, and Faxian Xiu.
+\newblock Room-temperature chiral charge pumping in dirac semimetals.
+\newblock {\em Nature Communications}, 8:13741 EP --, Jan 2017.
+\newblock Article.
+
+\bibitem{Tang2016}
+Peizhe Tang, Quan Zhou, Gang Xu, and Shou-Cheng Zhang.
+\newblock Dirac fermions in an antiferromagnetic semimetal.
+\newblock {\em Nature Physics}, 12:1100 EP --, Aug 2016.
+
+\bibitem{PhysRevLett.117.136602}
+Anton~A. Burkov and Yong~Baek Kim.
+\newblock ${\mathbb{z}}_{2}$ and chiral anomalies in topological dirac
+  semimetals.
+\newblock {\em Phys. Rev. Lett.}, 117:136602, Sep 2016.
+
+\bibitem{PhysRevB.90.205136}
+Ching-Kai Chiu and Andreas~P. Schnyder.
+\newblock Classification of reflection-symmetry-protected topological
+  semimetals and nodal superconductors.
+\newblock {\em Phys. Rev. B}, 90:205136, Nov 2014.
+
+\bibitem{1367-2630-15-6-065001}
+Shunji Matsuura, Po-Yao Chang, Andreas~P Schnyder, and Shinsei Ryu.
+\newblock Protected boundary states in gapless topological phases.
+\newblock {\em New Journal of Physics}, 15(6):065001, 2013.
+
+\bibitem{PhysRevLett.110.240404}
+Y.~X. Zhao and Z.~D. Wang.
+\newblock Topological classification and stability of fermi surfaces.
+\newblock {\em Phys. Rev. Lett.}, 110:240404, Jun 2013.
+
+\bibitem{0953-8984-27-24-243201}
+Andreas~P Schnyder and Philip M~R Brydon.
+\newblock Topological surface states in nodal superconductors.
+\newblock {\em Journal of Physics: Condensed Matter}, 27(24):243201, 2015.
+
+\bibitem{PhysRevLett.94.207002}
+Ismardo Bonalde, Werner Br\"amer-Escamilla, and Ernst Bauer.
+\newblock Evidence for line nodes in the superconducting energy gap of
+  noncentrosymmetric ${\mathrm{cept}}_{3}\mathrm{Si}$ from magnetic penetration
+  depth measurements.
+\newblock {\em Phys. Rev. Lett.}, 94:207002, May 2005.
+
+\bibitem{PhysRevLett.94.197002}
+K.~Izawa, Y.~Kasahara, Y.~Matsuda, K.~Behnia, T.~Yasuda, R.~Settai, and
+  Y.~Onuki.
+\newblock Line nodes in the superconducting gap function of noncentrosymmetric
+  ${\mathrm{cept}}_{3}\mathrm{Si}$.
+\newblock {\em Phys. Rev. Lett.}, 94:197002, May 2005.
+
+\bibitem{PhysRevLett.97.017006}
+H.~Q. Yuan, D.~F. Agterberg, N.~Hayashi, P.~Badica, D.~Vandervelde, K.~Togano,
+  M.~Sigrist, and M.~B. Salamon.
+\newblock $s$.
+\newblock {\em Phys. Rev. Lett.}, 97:017006, Jul 2006.
+
+\bibitem{PhysRevLett.100.107003}
+H.~Mukuda, T.~Fujii, T.~Ohara, A.~Harada, M.~Yashima, Y.~Kitaoka, Y.~Okuda,
+  R.~Settai, and Y.~Onuki.
+\newblock Enhancement of superconducting transition temperature due to the
+  strong antiferromagnetic spin fluctuations in the noncentrosymmetric
+  heavy-fermion superconductor ${\mathrm{ceirsi}}_{3}$: A $^{29}\mathrm{Si}$
+  nmr study under pressure.
+\newblock {\em Phys. Rev. Lett.}, 100:107003, Mar 2008.
+
+\bibitem{PhysRevLett.52.1915}
+H.~R. Ott, H.~Rudigier, T.~M. Rice, K.~Ueda, Z.~Fisk, and J.~L. Smith.
+\newblock $p$.
+\newblock {\em Phys. Rev. Lett.}, 52:1915--1918, May 1984.
+
+\bibitem{RevModPhys.47.415}
+John~C. Wheatley.
+\newblock Experimental properties of superfluid $^{3}\mathrm{He}$.
+\newblock {\em Rev. Mod. Phys.}, 47:415--470, Apr 1975.
+
+\bibitem{Volovik2011}
+G.~E. Volovik.
+\newblock Flat band in the core of topological defects: Bulk-vortex
+  correspondence in topological superfluids with fermi points.
+\newblock {\em JETP Letters}, 93(2):66--69, Mar 2011.
+
+\bibitem{volovik}
+Grigory~E. Volovik.
+\newblock {\em The Universe in a Helium Droplet}.
+\newblock Oxford University Press, 2018.
+
+\bibitem{PhysRevB.86.054504}
+Tobias Meng and Leon Balents.
+\newblock Weyl superconductors.
+\newblock {\em Phys. Rev. B}, 86:054504, Aug 2012.
+
+\bibitem{PhysRevLett.120.067003}
+Yi~Li and F.~D.~M. Haldane.
+\newblock Topological nodal cooper pairing in doped weyl metals.
+\newblock {\em Phys. Rev. Lett.}, 120:067003, Feb 2018.
+
+\bibitem{PhysRevB.86.214514}
+Gil~Young Cho, Jens~H. Bardarson, Yuan-Ming Lu, and Joel~E. Moore.
+\newblock Superconductivity of doped weyl semimetals: Finite-momentum pairing
+  and electronic analog of the ${}^{3}$he-$a$ phase.
+\newblock {\em Phys. Rev. B}, 86:214514, Dec 2012.
+
+\bibitem{PhysRevB.92.035153}
+G.~Bednik, A.~A. Zyuzin, and A.~A. Burkov.
+\newblock Superconductivity in weyl metals.
+\newblock {\em Phys. Rev. B}, 92:035153, Jul 2015.
+
+\bibitem{Huang2017}
+Beibing Huang.
+\newblock Pairing in doped inversion-symmetric weyl semimetals: a finite
+  temperature analysis from thouless criterion.
+\newblock {\em The European Physical Journal B}, 90(7):131, Jul 2017.
+
+\bibitem{PhysRevB.93.184511}
+Rui Wang, Lei Hao, Baigeng Wang, and C.~S. Ting.
+\newblock Quantum anomalies in superconducting weyl metals.
+\newblock {\em Phys. Rev. B}, 93:184511, May 2016.
+
+\bibitem{PhysRevB.92.214504}
+Pallab Goswami and Andriy~H. Nevidomskyy.
+\newblock Topological weyl superconductor to diffusive thermal hall metal
+  crossover in the $b$ phase of ${\mathrm{upt}}_{3}$.
+\newblock {\em Phys. Rev. B}, 92:214504, Dec 2015.
+
+\bibitem{PhysRevB.89.020509}
+Mark~H. Fischer, Titus Neupert, Christian Platt, Andreas~P. Schnyder, Werner
+  Hanke, Jun Goryo, Ronny Thomale, and Manfred Sigrist.
+\newblock Chiral $d$-wave superconductivity in srptas.
+\newblock {\em Phys. Rev. B}, 89:020509, Jan 2014.
+
+\bibitem{PhysRevB.86.104509}
+Jay~D. Sau and Sumanta Tewari.
+\newblock Topologically protected surface majorana arcs and bulk weyl fermions
+  in ferromagnetic superconductors.
+\newblock {\em Phys. Rev. B}, 86:104509, Sep 2012.
+
+\bibitem{PhysRevLett.115.265304}
+Yong Xu, Fan Zhang, and Chuanwei Zhang.
+\newblock Structured weyl points in spin-orbit coupled fermionic superfluids.
+\newblock {\em Phys. Rev. Lett.}, 115:265304, Dec 2015.
+
+\bibitem{PhysRevLett.114.045302}
+Bo~Liu, Xiaopeng Li, Lan Yin, and W.~Vincent Liu.
+\newblock Weyl superfluidity in a three-dimensional dipolar fermi gas.
+\newblock {\em Phys. Rev. Lett.}, 114:045302, Jan 2015.
+
+\bibitem{PhysRevB.97.060504}
+Ryo Okugawa and Takehito Yokoyama.
+\newblock Generic phase diagram for weyl superconductivity in mirror-symmetric
+  superconductors.
+\newblock {\em Phys. Rev. B}, 97:060504, Feb 2018.
+
+\bibitem{PhysRevB.95.064513}
+Lei Hao and C.~S. Ting.
+\newblock Searching for two-dimensional weyl superconductors in
+  heterostructures.
+\newblock {\em Phys. Rev. B}, 95:064513, Feb 2017.
+
+\bibitem{PhysRevB.94.180510}
+M.~P. Smylie, H.~Claus, U.~Welp, W.-K. Kwok, Y.~Qiu, Y.~S. Hor, and A.~Snezhko.
+\newblock Evidence of nodes in the order parameter of the superconducting doped
+  topological insulator ${\mathrm{nb}}_{x}{\mathrm{bi}}_{2}{\mathrm{se}}_{3}$
+  via penetration depth measurements.
+\newblock {\em Phys. Rev. B}, 94:180510, Nov 2016.
+
+\bibitem{PhysRevB.95.201109}
+Noah F.~Q. Yuan, Wen-Yu He, and K.~T. Law.
+\newblock Superconductivity-induced ferromagnetism and weyl superconductivity
+  in nb-doped ${\mathbf{bi}}_{2}{\mathbf{se}}_{3}$.
+\newblock {\em Phys. Rev. B}, 95:201109, May 2017.
+
+\bibitem{PhysRevB.95.201110}
+Luca Chirolli, Fernando de~Juan, and Francisco Guinea.
+\newblock Time-reversal and rotation symmetry breaking superconductivity in
+  dirac materials.
+\newblock {\em Phys. Rev. B}, 95:201110, May 2017.
+
+\bibitem{PhysRevB.96.144512}
+Lei Hao and C.~S. Ting.
+\newblock Nematic superconductivity in
+  ${\mathrm{cu}}_{x}{\mathrm{bi}}_{2}{\mathrm{se}}_{3}$: Surface andreev bound
+  states.
+\newblock {\em Phys. Rev. B}, 96:144512, Oct 2017.
+
+\bibitem{PhysRevB.94.180504}
+J\"orn W.~F. Venderbos, Vladyslav Kozii, and Liang Fu.
+\newblock Odd-parity superconductors with two-component order parameters:
+  Nematic and chiral, full gap, and majorana node.
+\newblock {\em Phys. Rev. B}, 94:180504, Nov 2016.
+
+\bibitem{PhysRevLett.113.046401}
+Shengyuan~A. Yang, Hui Pan, and Fan Zhang.
+\newblock Dirac and weyl superconductors in three dimensions.
+\newblock {\em Phys. Rev. Lett.}, 113:046401, Jul 2014.
+
+\bibitem{PhysRevLett.90.117001}
+K.~Izawa, Y.~Nakajima, J.~Goryo, Y.~Matsuda, S.~Osaki, H.~Sugawara, H.~Sato,
+  P.~Thalmeier, and K.~Maki.
+\newblock Multiple superconducting phases in new heavy fermion superconductor
+  ${\mathrm{p}\mathrm{r}\mathrm{o}\mathrm{s}}_{4}{\mathrm{s}\mathrm{b}}_{12}$.
+\newblock {\em Phys. Rev. Lett.}, 90:117001, Mar 2003.
+
+\bibitem{PhysRevB.76.054514}
+T.~R. Abu~Alrub and S.~H. Curnoe.
+\newblock Symmetry properties of the nodal superconductor
+  $\mathrm{Pr}{\mathrm{os}}_{4}{\mathrm{sb}}_{12}$.
+\newblock {\em Phys. Rev. B}, 76:054514, Aug 2007.
+
+\bibitem{ABUALRUB20081178}
+T.R.~Abu Alrub and S.H. Curnoe.
+\newblock Theory of density of states in the nodal superconductor pros4sb12.
+\newblock {\em Physica B: Condensed Matter}, 403(5):1178 -- 1180, 2008.
+
+\bibitem{PhysRevLett.50.1395}
+R.~B. Laughlin.
+\newblock Anomalous quantum hall effect: An incompressible quantum fluid with
+  fractionally charged excitations.
+\newblock {\em Phys. Rev. Lett.}, 50:1395--1398, May 1983.
+
+\bibitem{PhysRevLett.51.605}
+F.~D.~M. Haldane.
+\newblock Fractional quantization of the hall effect: A hierarchy of
+  incompressible quantum fluid states.
+\newblock {\em Phys. Rev. Lett.}, 51:605--608, Aug 1983.
+
+\bibitem{PhysRevLett.88.036401}
+C.~L. Kane, Ranjan Mukhopadhyay, and T.~C. Lubensky.
+\newblock Fractional quantum hall effect in an array of quantum wires.
+\newblock {\em Phys. Rev. Lett.}, 88:036401, Jan 2002.
+
+\bibitem{PhysRevB.89.085101}
+Jeffrey C.~Y. Teo and C.~L. Kane.
+\newblock From luttinger liquid to non-abelian quantum hall states.
+\newblock {\em Phys. Rev. B}, 89:085101, Feb 2014.
+
+\bibitem{PhysRevX.7.031009}
+Charles~L. Kane, Ady Stern, and Bertrand~I. Halperin.
+\newblock Pairing in luttinger liquids and quantum hall states.
+\newblock {\em Phys. Rev. X}, 7:031009, Jul 2017.
+
+\bibitem{Klinovaja2014}
+Jelena Klinovaja and Daniel Loss.
+\newblock Integer and fractional quantum hall effect in a strip of stripes.
+\newblock {\em The European Physical Journal B}, 87(8):171, Aug 2014.
+
+\bibitem{Meng2014}
+Tobias Meng, Peter Stano, Jelena Klinovaja, and Daniel Loss.
+\newblock Helical nuclear spin order in a strip of stripes in the quantum hall
+  regime.
+\newblock {\em The European Physical Journal B}, 87(9):203, Sep 2014.
+
+\bibitem{PhysRevB.89.115402}
+Yuval Oreg, Eran Sela, and Ady Stern.
+\newblock Fractional helical liquids in quantum wires.
+\newblock {\em Phys. Rev. B}, 89:115402, Mar 2014.
+
+\bibitem{PhysRevB.90.205101}
+Titus Neupert, Claudio Chamon, Christopher Mudry, and Ronny Thomale.
+\newblock Wire deconstructionism of two-dimensional topological phases.
+\newblock {\em Phys. Rev. B}, 90:205101, Nov 2014.
+
+\bibitem{PhysRevB.90.115426}
+Jelena Klinovaja and Yaroslav Tserkovnyak.
+\newblock Quantum spin hall effect in strip of stripes model.
+\newblock {\em Phys. Rev. B}, 90:115426, Sep 2014.
+
+\bibitem{PhysRevB.90.201102}
+Eran Sagi and Yuval Oreg.
+\newblock Non-abelian topological insulators from an array of quantum wires.
+\newblock {\em Phys. Rev. B}, 90:201102, Nov 2014.
+
+\bibitem{PhysRevB.91.205141}
+Raul~A. Santos, Chia-Wei Huang, Yuval Gefen, and D.~B. Gutman.
+\newblock Fractional topological insulators: From sliding luttinger liquids to
+  chern-simons theory.
+\newblock {\em Phys. Rev. B}, 91:205141, May 2015.
+
+\bibitem{PhysRevX.5.011011}
+David~F. Mross, Andrew Essin, and Jason Alicea.
+\newblock Composite dirac liquids: Parent states for symmetric surface
+  topological order.
+\newblock {\em Phys. Rev. X}, 5:011011, Feb 2015.
+
+\bibitem{PhysRevX.4.011036}
+Roger S.~K. Mong, David~J. Clarke, Jason Alicea, Netanel~H. Lindner, Paul
+  Fendley, Chetan Nayak, Yuval Oreg, Ady Stern, Erez Berg, Kirill Shtengel, and
+  Matthew P.~A. Fisher.
+\newblock Universal topological quantum computation from a
+  superconductor-abelian quantum hall heterostructure.
+\newblock {\em Phys. Rev. X}, 4:011036, Mar 2014.
+
+\bibitem{PhysRevB.89.104523}
+Inbar Seroussi, Erez Berg, and Yuval Oreg.
+\newblock Topological superconducting phases of weakly coupled quantum wires.
+\newblock {\em Phys. Rev. B}, 89:104523, Mar 2014.
+
+\bibitem{PhysRevB.91.241106}
+Tobias Meng, Titus Neupert, Martin Greiter, and Ronny Thomale.
+\newblock Coupled-wire construction of chiral spin liquids.
+\newblock {\em Phys. Rev. B}, 91:241106, Jun 2015.
+
+\bibitem{PhysRevB.94.195130}
+Aavishkar~A. Patel and Debanjan Chowdhury.
+\newblock Two-dimensional spin liquids with ${\mathbb{z}}_{2}$ topological
+  order in an array of quantum wires.
+\newblock {\em Phys. Rev. B}, 94:195130, Nov 2016.
+
+\bibitem{PhysRevB.91.245139}
+Gregory Gorohovsky, Rodrigo~G. Pereira, and Eran Sela.
+\newblock Chiral spin liquids in arrays of spin chains.
+\newblock {\em Phys. Rev. B}, 91:245139, Jun 2015.
+
+\bibitem{PhysRevB.92.195137}
+Eran Sagi and Yuval Oreg.
+\newblock From an array of quantum wires to three-dimensional fractional
+  topological insulators.
+\newblock {\em Phys. Rev. B}, 92:195137, Nov 2015.
+
+\bibitem{PhysRevB.93.195136}
+Thomas Iadecola, Titus Neupert, Claudio Chamon, and Christopher Mudry.
+\newblock Wire constructions of abelian topological phases in three or more
+  dimensions.
+\newblock {\em Phys. Rev. B}, 93:195136, May 2016.
+
+\bibitem{Iadecola2017}
+Thomas Iadecola, Titus Neupert, Claudio Chamon, and Christopher Mudry.
+\newblock 2017.
+
+\bibitem{PhysRevB.94.155136}
+Tobias Meng, Adolfo~G. Grushin, Kirill Shtengel, and Jens~H. Bardarson.
+\newblock Theory of a 3+1d fractional chiral metal: Interacting variant of the
+  weyl semimetal.
+\newblock {\em Phys. Rev. B}, 94:155136, Oct 2016.
+
+\bibitem{0295-5075-102-6-67011}
+M.~M. Vazifeh.
+\newblock Weyl semimetal from the honeycomb array of topological insulator
+  nanowires.
+\newblock {\em EPL (Europhysics Letters)}, 102(6):67011, 2013.
+
+\bibitem{PhysRevB.92.115152}
+Tobias Meng.
+\newblock Fractional topological phases in three-dimensional coupled-wire
+  systems.
+\newblock {\em Phys. Rev. B}, 92:115152, Sep 2015.
+
+\bibitem{Mross}
+Eran Sagi, Ady Stern, and David~F. Mross.
+\newblock 2018.
+
+\bibitem{PhysRevB.94.165142}
+Sharmistha Sahoo, Zhao Zhang, and Jeffrey C.~Y. Teo.
+\newblock Coupled wire model of symmetric majorana surfaces of topological
+  superconductors.
+\newblock {\em Phys. Rev. B}, 94:165142, Oct 2016.
+
+\bibitem{Raza2017}
+Syed Raza, Alexander Sirota, and Jeffrey C.~Y. Teo.
+\newblock 2017.
+
+\bibitem{RazaSirotaTeo17}
+S.~{Raza}, A.~{Sirota}, and J.~C.~Y. {Teo}.
+\newblock {From Dirac semimetals to topological phases in three dimensions: a
+  coupled wire construction}.
+\newblock {\em ArXiv e-prints}, November 2017.
+
+\bibitem{AltlandZirnbauer97}
+Alexander Altland and Martin~R. Zirnbauer.
+\newblock Nonstandard symmetry classes in mesoscopic normal-superconducting
+  hybrid structures.
+\newblock {\em Phys. Rev. B},
+  55:\href{http://link.aps.org/doi/10.1103/PhysRevB.55.1142}{1142}, 1997.
+
+\bibitem{Ryu2008}
+Andreas~P. Schnyder, Shinsei Ryu, Akira Furusaki, and Andreas W.~W. Ludwig.
+\newblock Classification of topological insulators and superconductors in three
+  spatial dimensions.
+\newblock {\em Phys. Rev. B}, 78:195125, 2008.
+
+\bibitem{PhysRevLett.74.2090}
+F.~D.~M. Haldane.
+\newblock Stability of chiral luttinger liquids and abelian quantum hall
+  states.
+\newblock {\em Phys. Rev. Lett.}, 74:2090--2093, Mar 1995.
+
+\bibitem{FateevZamolodchikov82}
+V.A. Fateev and A.B. Zamolodchikov.
+\newblock Self-dual solutions of the star-triangle relations in zn-models.
+\newblock {\em Physics Letters A}, 92(1):37 -- 39, 1982.
+
+\bibitem{ZamolodchikovFateev85}
+A.~B. Zamolodchikov and V.~A. Fateev.
+\newblock Nonlocal (parafermion) currents in two-dimensional conformal quantum
+  field theory and self-dual critical points in zn-symmetric statistical
+  systems.
+\newblock {\em Sov. Phys. JETP}, 62:215, 1985.
+
+\bibitem{LiebSchultzMattis61}
+Elliott Lieb, Theodore Schultz, and Daniel Mattis.
+\newblock Two soluble models of an antiferromagnetic chain.
+\newblock {\em Annals of Physics}, 16(3):407 -- 466, 1961.
+
+\bibitem{Oshikawa00}
+Masaki Oshikawa.
+\newblock Commensurability, excitation gap, and topology in quantum
+  many-particle systems on a periodic lattice.
+\newblock {\em Phys. Rev. Lett.}, 84:1535--1538, Feb 2000.
+
+\bibitem{Hastings04}
+M.~B. Hastings.
+\newblock Lieb-schultz-mattis in higher dimensions.
+\newblock {\em Phys. Rev. B}, 69:104431, Mar 2004.
+
+\bibitem{WatanabePoVishwanath17}
+Haruki Watanabe, Hoi~Chun Po, and Ashvin Vishwanath.
+\newblock Structure and topology of band structures in the 1651 magnetic space
+  groups.
+\newblock {\em Science Advances}, 4(8), 2018.
+
+\bibitem{FidkowskiKitaev10}
+Lukasz Fidkowski and Alexei Kitaev.
+\newblock Effects of interactions on the topological classification of free
+  fermion systems.
+\newblock {\em Phys. Rev. B}, 81:134509, Apr 2010.
+
+\bibitem{QiHughesRaghuZhang09}
+Xiao-Liang Qi, Taylor~L. Hughes, S.~Raghu, and Shou-Cheng Zhang.
+\newblock Time-reversal-invariant topological superconductors and superfluids
+  in two and three dimensions.
+\newblock {\em Phys. Rev. Lett.}, 102:187001, May 2009.
+
+\bibitem{LapaTeoHughes14}
+Matthew~F. Lapa, Jeffrey C.~Y. Teo, and Taylor~L. Hughes.
+\newblock Interaction-enabled topological crystalline phases.
+\newblock {\em Phys. Rev. B}, 93:115131, Mar 2016.
+
+\bibitem{Volovik99}
+G.~E. Volovik.
+\newblock Fermion zero modes on vortices in chiral superconductors.
+\newblock {\em Pisma Zh. Eksp. Teor. Fiz.}, 70:601, 1999.
+
+\bibitem{ReadGreen}
+N.~Read and Dmitry Green.
+\newblock Paired states of fermions in two dimensions with breaking of parity
+  and time-reversal symmetries and the fractional quantum hall effect.
+\newblock {\em Phys. Rev. B}, 61:10267, 2000.
+
+\bibitem{KaneFisher97}
+C.~L. Kane and Matthew P.~A. Fisher.
+\newblock Quantized thermal transport in the fractional quantum hall effect.
+\newblock {\em Phys. Rev. B}, 55:15832--15837, Jun 1997.
+
+\bibitem{Cappelli01}
+Andrea Cappelli, Marina Huerta, and Guillermo~R. Zemba.
+\newblock Thermal transport in chiral conformal theories and hierarchical
+  quantum hall states.
+\newblock {\em Nuclear Physics B}, 636(3):568 -- 582, 2002.
+
+\bibitem{BiYouXu14}
+Zhen Bi, Yi-Zhuang You, and Cenke Xu.
+\newblock Anyon and loop braiding statistics in field theories with a
+  topological $\ensuremath{\Theta}$ term.
+\newblock {\em Phys. Rev. B}, 90:081110, Aug 2014.
+
+\bibitem{JiangMesarosRan14}
+Shenghan Jiang, Andrej Mesaros, and Ying Ran.
+\newblock Generalized modular transformations in $(3+1)\mathrm{D}$
+  topologically ordered phases and triple linking invariant of loop braiding.
+\newblock {\em Phys. Rev. X}, 4:031048, Sep 2014.
+
+\bibitem{JianQi14}
+Chao-Ming Jian and Xiao-Liang Qi.
+\newblock Layer construction of 3d topological states and string braiding
+  statistics.
+\newblock {\em Phys. Rev. X}, 4:041043, Dec 2014.
+
+\bibitem{WangWen15}
+Juven~C. Wang and Xiao-Gang Wen.
+\newblock Non-abelian string and particle braiding in topological order:
+  Modular $\mathrm{SL}(3,\mathbb{Z})$ representation and $(3+1)$-dimensional
+  twisted gauge theory.
+\newblock {\em Phys. Rev. B}, 91:035134, Jan 2015.
+
+\bibitem{WangLevin15}
+Chenjie Wang and Michael Levin.
+\newblock Topological invariants for gauge theories and symmetry-protected
+  topological phases.
+\newblock {\em Phys. Rev. B}, 91:165119, Apr 2015.
+
+\bibitem{LinLevin15}
+Chien-Hung Lin and Michael Levin.
+\newblock Loop braiding statistics in exactly soluble three-dimensional lattice
+  models.
+\newblock {\em Phys. Rev. B}, 92:035115, Jul 2015.
+
+\bibitem{ChenTiwariRyu15}
+Xiao Chen, Apoorv Tiwari, and Shinsei Ryu.
+\newblock Bulk-boundary correspondence in (3+1)-dimensional topological phases.
+\newblock {\em Phys. Rev. B}, 94:045113, Jul 2016.
+
+\bibitem{RyuHatsugaiPRL02}
+Shinsei Ryu and Yasuhiro Hatsugai.
+\newblock Topological origin of zero-energy edge states in particle-hole
+  symmetric systems.
+\newblock {\em Phys. Rev. Lett.}, 89:077002, Jul 2002.
+
+\bibitem{Volovik3HeA}
+G.~E. Volovik.
+\newblock Flat band in the core of topological defects: Bulk-vortex
+  correspondence in topological superfluids with fermi points.
+\newblock {\em JETP Letters}, 93(2):66--69, Mar 2011.
+
+\bibitem{Volovikbook}
+Grigory~E. Volovik.
+\newblock {\em The Universe in a Helium Droplet}.
+\newblock Oxford University Press, 2003.
+
+\bibitem{SchnyderRyuFlat}
+Andreas~P. Schnyder and Shinsei Ryu.
+\newblock Topological phases and surface flat bands in superconductors without
+  inversion symmetry.
+\newblock {\em Phys. Rev. B}, 84:060504, Aug 2011.
+
+\bibitem{BrydonSchnyderTimmFlat}
+P.~M.~R. Brydon, Andreas~P. Schnyder, and Carsten Timm.
+\newblock Topologically protected flat zero-energy surface bands in
+  noncentrosymmetric superconductors.
+\newblock {\em Phys. Rev. B}, 84:020501, Jul 2011.
+
+\bibitem{morimotoFurusakiPRB14}
+Takahiro Morimoto and Akira Furusaki.
+\newblock Weyl and dirac semimetals with ${\mathbb{z}}_{2}$ topological charge.
+\newblock {\em Phys. Rev. B}, 89:235127, Jun 2014.
+
+\bibitem{Sato_Crystalline_PRB14}
+Ken Shiozaki and Masatoshi Sato.
+\newblock Topology of crystalline insulators and superconductors.
+\newblock {\em Phys. Rev. B}, 90:165114, Oct 2014.
+
+\bibitem{ZhaoWangPRL13}
+Y.~X. Zhao and Z.~D. Wang.
+\newblock Topological classification and stability of fermi surfaces.
+\newblock {\em Phys. Rev. Lett.}, 110:240404, Jun 2013.
+
+\bibitem{ZhaoWangPRB14}
+Y.~X. Zhao and Z.~D. Wang.
+\newblock Topological connection between the stability of fermi surfaces and
+  topological insulators and superconductors.
+\newblock {\em Phys. Rev. B}, 89:075111, Feb 2014.
+
+\bibitem{ChiuSchnyder14}
+Ching-Kai Chiu and Andreas~P. Schnyder.
+\newblock Classification of reflection-symmetry-protected topological
+  semimetals and nodal superconductors.
+\newblock {\em Phys. Rev. B}, 90:205136, Nov 2014.
+
+\bibitem{matsuuraNJP13}
+Shunji Matsuura, Po-Yao Chang, Andreas~P Schnyder, and Shinsei Ryu.
+\newblock Protected boundary states in gapless topological phases.
+\newblock {\em New J. Phys.}, 15:065001, 2013.
+
+\bibitem{HoravaPRL05}
+Petr Ho\ifmmode~\check{r}\else \v{r}\fi{}ava.
+\newblock Stability of fermi surfaces and <span
+  class="aps-inline-formula"><math display="inline"><mi>k</mi></math></span>
+  theory.
+\newblock {\em Phys. Rev. Lett.}, 95:016405, Jun 2005.
+
+\bibitem{Dzyaloshinsky58}
+I.~Dzyaloshinsky.
+\newblock A thermodynamic theory of “weak” ferromagnetism of
+  antiferromagnetics.
+\newblock {\em Journal of Physics and Chemistry of Solids}, 4(4):241 -- 255,
+  1958.
+
+\bibitem{Moriya60}
+T\^oru Moriya.
+\newblock Anisotropic superexchange interaction and weak ferromagnetism.
+\newblock {\em Phys. Rev.}, 120:91--98, Oct 1960.
+
+\bibitem{Haah11}
+Jeongwan Haah.
+\newblock Local stabilizer codes in three dimensions without string logical
+  operators.
+\newblock {\em Phys. Rev. A}, 83:042330, Apr 2011.
+
+\bibitem{Haah13}
+Jeongwan Haah.
+\newblock Commuting pauli hamiltonians as maps between free modules.
+\newblock {\em Communications in Mathematical Physics}, 324(2):351--399, Dec
+  2013.
+
+\bibitem{ZouHe2018}
+Liujun Zou and Yin-Chen He.
+\newblock Field-induced neutral fermi surface and qcd$_3$-chern-simons quantum
+  criticalities in kitaev materials, 2018.
+
+\end{thebibliography}

@@ -1,0 +1,149 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Author: Syed Raza
+% Begin date: 25th march 2019
+% email: raza220489@gmail.com
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt,letterpaper]{report}
+
+
+\usepackage{amsmath,amssymb,amsfonts,stmaryrd,wasysym,graphicx,multirow,color,textcomp,subfigure,xcolor,fancyhdr,setspace}
+\usepackage{url}\usepackage{diagrams}
+\usepackage[colorlinks=true,citecolor=blue,urlcolor=blue]{hyperref}
+\usepackage[normalem]{ulem}
+%\definecolor{teal}{cmyk}{0.5,1,0,0}
+%\definecolor{lightgreen}{cmyk}{0.25,0.25,0.4,0}
+
+\newcommand{\CFT}{\hyperlink{CFT}{CFT} }
+\newcommand{\TR}{\hyperlink{TR}{TR} }
+\newcommand{\AFTR}{\hyperlink{AFTR}{AFTR} }
+\newcommand{\BZ}{\hyperlink{BZ}{BZ} }
+\newcommand{\TRIM}{\hyperlink{TRIM}{TRIM} }
+\newcommand{\WTI}{\hyperlink{WTI}{WTI} }
+\newcommand{\AFTI}{\hyperlink{AFTI}{AFTI} }
+\newcommand{\GEV}{\hyperlink{GEV}{GEV} }
+\newcommand{\FQH}{\hyperlink{FQH}{FQH} }
+\newcommand{\QP}{\hyperlink{QP}{QP} }
+\newcommand{\PHS}{\hyperlink{PHS}{PHS} }
+\newcommand{\ETCR}{\hyperlink{ETCR}{ETCR} }
+\newcommand{\ABJ}{\hyperlink{ABJ}{ABJ} }
+\newcommand{\SG}{\hyperlink{SG}{SG} }
+\newcommand{\ARPES}{\hyperlink{ARPES}{ARPES} }
+%\newcommand{\SPT}{\hyperlink{SPT}{SPT} }
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\graphicspath{{/Users/syedraza/Dropbox/ThesisSyedRaza/Figures/}}
+
+
+
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Margins
+%
+\usepackage[top=1in,bottom=1in,left=1.5in,right=1in]{geometry}
+\usepackage{romannum}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage{pdflscape}
+%\usepackage{wrapfig}
+%
+% avoids incorrect hyphenation, added Nov/08 by SSR
+\hyphenation{ALPGEN}
+\hyphenation{EVTGEN}
+\hyphenation{PYTHIA}
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+% User defined commands
+\linespread{1.6}
+\def\ds{\displaystyle}
+\def\gs{\gtrsim}
+\def\ls{\lesssim}
+
+
+\setcounter{secnumdepth}{3}
+
+\fancypagestyle{phdthesis}{%
+\fancyhf{} %clear all headers and footers fields
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[R]{\thepage} %prints the page number on the right side of the header
+}
+%
+\fancypagestyle{plain}{%redefining plain pagestyle
+\fancyhf{} %clear all headers and footers fields
+\renewcommand{\headrulewidth}{0pt}	
+\fancyhead[R]{\thepage} %prints the page number on the right side of the header
+}
+
+\pagestyle{phdthesis}
+\doublespacing
+%
+\begin{document}
+%
+%
+\pagenumbering{gobble}
+\include{title}
+%
+%\include{dedicate}
+%
+\pagenumbering{roman}
+%
+\include{acknowledgements}
+%
+\include{abstract}
+%
+{
+	\hypersetup{linkcolor=black}
+	\tableofcontents
+}
+%
+{
+	\hypersetup{linkcolor=black}
+	\listoffigures
+}
+
+%
+%\listoftables
+%
+\pagenumbering{arabic}
+%
+\include{chap_Introduction}
+%
+\include{chap_Summary}
+%
+
+%
+\include{chap_Model1}
+%
+\include{chap_Model2}
+%
+\include{chap_Model3}
+
+%
+\include{chap_Conclusion}
+%
+\include{chap_Future}
+
+%
+\bibliography{refFinal}
+\bibliographystyle{unsrt}
+%
+%
+\appendix
+
+\include{Appendix}
+%
+
+
+
+
+\end{document}
